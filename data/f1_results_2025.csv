@@ -1,0 +1,480 @@
+season,round,race_name,driver_number,driver_name,abbreviation,team,final_position,status,points_scored
+2025,1,Australian Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,1,Australian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,2,Finished,18.0
+2025,1,Australian Grand Prix,63,George Russell,RUS,Mercedes,3,Finished,15.0
+2025,1,Australian Grand Prix,12,Andrea Kimi Antonelli,ANT,Mercedes,4,Finished,12.0
+2025,1,Australian Grand Prix,23,Alexander Albon,ALB,Williams,5,Finished,10.0
+2025,1,Australian Grand Prix,18,Lance Stroll,STR,Aston Martin,6,Finished,8.0
+2025,1,Australian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,7,Finished,6.0
+2025,1,Australian Grand Prix,16,Charles Leclerc,LEC,Ferrari,8,Finished,4.0
+2025,1,Australian Grand Prix,81,Oscar Piastri,PIA,McLaren,9,Finished,2.0
+2025,1,Australian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,10,Finished,1.0
+2025,1,Australian Grand Prix,10,Pierre Gasly,GAS,Alpine,11,Finished,0.0
+2025,1,Australian Grand Prix,22,Yuki Tsunoda,TSU,Racing Bulls,12,Finished,0.0
+2025,1,Australian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,13,Finished,0.0
+2025,1,Australian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,14,Finished,0.0
+2025,1,Australian Grand Prix,30,Liam Lawson,LAW,Red Bull Racing,R,Retired,0.0
+2025,1,Australian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,R,Retired,0.0
+2025,1,Australian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,R,Retired,0.0
+2025,1,Australian Grand Prix,55,Carlos Sainz,SAI,Williams,R,Retired,0.0
+2025,1,Australian Grand Prix,7,Jack Doohan,DOO,Alpine,R,Retired,0.0
+2025,1,Australian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,R,Retired,0.0
+2025,2,Chinese Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,2,Chinese Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,2,Chinese Grand Prix,63,George Russell,RUS,Mercedes,3,Finished,15.0
+2025,2,Chinese Grand Prix,1,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2025,2,Chinese Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,5,Finished,10.0
+2025,2,Chinese Grand Prix,12,Kimi Antonelli,ANT,Mercedes,6,Finished,8.0
+2025,2,Chinese Grand Prix,23,Alexander Albon,ALB,Williams,7,Finished,6.0
+2025,2,Chinese Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,8,Finished,4.0
+2025,2,Chinese Grand Prix,18,Lance Stroll,STR,Aston Martin,9,Finished,2.0
+2025,2,Chinese Grand Prix,55,Carlos Sainz,SAI,Williams,10,Finished,1.0
+2025,2,Chinese Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,11,Finished,0.0
+2025,2,Chinese Grand Prix,30,Liam Lawson,LAW,Red Bull Racing,12,Finished,0.0
+2025,2,Chinese Grand Prix,7,Jack Doohan,DOO,Alpine,13,Finished,0.0
+2025,2,Chinese Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,14,Lapped,0.0
+2025,2,Chinese Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,15,Lapped,0.0
+2025,2,Chinese Grand Prix,22,Yuki Tsunoda,TSU,Racing Bulls,16,Lapped,0.0
+2025,2,Chinese Grand Prix,14,Fernando Alonso,ALO,Aston Martin,R,Retired,0.0
+2025,2,Chinese Grand Prix,16,Charles Leclerc,LEC,Ferrari,D,Disqualified,0.0
+2025,2,Chinese Grand Prix,44,Lewis Hamilton,HAM,Ferrari,D,Disqualified,0.0
+2025,2,Chinese Grand Prix,10,Pierre Gasly,GAS,Alpine,D,Disqualified,0.0
+2025,3,Japanese Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,3,Japanese Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,3,Japanese Grand Prix,81,Oscar Piastri,PIA,McLaren,3,Finished,15.0
+2025,3,Japanese Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2025,3,Japanese Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2025,3,Japanese Grand Prix,12,Kimi Antonelli,ANT,Mercedes,6,Finished,8.0
+2025,3,Japanese Grand Prix,44,Lewis Hamilton,HAM,Ferrari,7,Finished,6.0
+2025,3,Japanese Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,8,Finished,4.0
+2025,3,Japanese Grand Prix,23,Alexander Albon,ALB,Williams,9,Finished,2.0
+2025,3,Japanese Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,10,Finished,1.0
+2025,3,Japanese Grand Prix,14,Fernando Alonso,ALO,Aston Martin,11,Finished,0.0
+2025,3,Japanese Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,12,Finished,0.0
+2025,3,Japanese Grand Prix,10,Pierre Gasly,GAS,Alpine,13,Finished,0.0
+2025,3,Japanese Grand Prix,55,Carlos Sainz,SAI,Williams,14,Finished,0.0
+2025,3,Japanese Grand Prix,7,Jack Doohan,DOO,Alpine,15,Finished,0.0
+2025,3,Japanese Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,16,Finished,0.0
+2025,3,Japanese Grand Prix,30,Liam Lawson,LAW,Racing Bulls,17,Finished,0.0
+2025,3,Japanese Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,18,Finished,0.0
+2025,3,Japanese Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,19,Finished,0.0
+2025,3,Japanese Grand Prix,18,Lance Stroll,STR,Aston Martin,20,Lapped,0.0
+2025,4,Bahrain Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,4,Bahrain Grand Prix,63,George Russell,RUS,Mercedes,2,Finished,18.0
+2025,4,Bahrain Grand Prix,4,Lando Norris,NOR,McLaren,3,Finished,15.0
+2025,4,Bahrain Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2025,4,Bahrain Grand Prix,44,Lewis Hamilton,HAM,Ferrari,5,Finished,10.0
+2025,4,Bahrain Grand Prix,1,Max Verstappen,VER,Red Bull Racing,6,Finished,8.0
+2025,4,Bahrain Grand Prix,10,Pierre Gasly,GAS,Alpine,7,Finished,6.0
+2025,4,Bahrain Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,8,Finished,4.0
+2025,4,Bahrain Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,9,Finished,2.0
+2025,4,Bahrain Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,10,Finished,1.0
+2025,4,Bahrain Grand Prix,12,Kimi Antonelli,ANT,Mercedes,11,Finished,0.0
+2025,4,Bahrain Grand Prix,23,Alexander Albon,ALB,Williams,12,Finished,0.0
+2025,4,Bahrain Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,13,Finished,0.0
+2025,4,Bahrain Grand Prix,7,Jack Doohan,DOO,Alpine,14,Finished,0.0
+2025,4,Bahrain Grand Prix,14,Fernando Alonso,ALO,Aston Martin,15,Finished,0.0
+2025,4,Bahrain Grand Prix,30,Liam Lawson,LAW,Racing Bulls,16,Finished,0.0
+2025,4,Bahrain Grand Prix,18,Lance Stroll,STR,Aston Martin,17,Finished,0.0
+2025,4,Bahrain Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,18,Finished,0.0
+2025,4,Bahrain Grand Prix,55,Carlos Sainz,SAI,Williams,R,Retired,0.0
+2025,4,Bahrain Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,D,Disqualified,0.0
+2025,5,Saudi Arabian Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,5,Saudi Arabian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,2,Finished,18.0
+2025,5,Saudi Arabian Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2025,5,Saudi Arabian Grand Prix,4,Lando Norris,NOR,McLaren,4,Finished,12.0
+2025,5,Saudi Arabian Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2025,5,Saudi Arabian Grand Prix,12,Kimi Antonelli,ANT,Mercedes,6,Finished,8.0
+2025,5,Saudi Arabian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,7,Finished,6.0
+2025,5,Saudi Arabian Grand Prix,55,Carlos Sainz,SAI,Williams,8,Finished,4.0
+2025,5,Saudi Arabian Grand Prix,23,Alexander Albon,ALB,Williams,9,Finished,2.0
+2025,5,Saudi Arabian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,10,Finished,1.0
+2025,5,Saudi Arabian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,11,Finished,0.0
+2025,5,Saudi Arabian Grand Prix,30,Liam Lawson,LAW,Racing Bulls,12,Finished,0.0
+2025,5,Saudi Arabian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,13,Finished,0.0
+2025,5,Saudi Arabian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,14,Finished,0.0
+2025,5,Saudi Arabian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,15,Lapped,0.0
+2025,5,Saudi Arabian Grand Prix,18,Lance Stroll,STR,Aston Martin,16,Lapped,0.0
+2025,5,Saudi Arabian Grand Prix,7,Jack Doohan,DOO,Alpine,17,Lapped,0.0
+2025,5,Saudi Arabian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,18,Lapped,0.0
+2025,5,Saudi Arabian Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,R,Retired,0.0
+2025,5,Saudi Arabian Grand Prix,10,Pierre Gasly,GAS,Alpine,R,Retired,0.0
+2025,6,Miami Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,6,Miami Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,6,Miami Grand Prix,63,George Russell,RUS,Mercedes,3,Finished,15.0
+2025,6,Miami Grand Prix,1,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2025,6,Miami Grand Prix,23,Alexander Albon,ALB,Williams,5,Finished,10.0
+2025,6,Miami Grand Prix,12,Kimi Antonelli,ANT,Mercedes,6,Finished,8.0
+2025,6,Miami Grand Prix,16,Charles Leclerc,LEC,Ferrari,7,Finished,6.0
+2025,6,Miami Grand Prix,44,Lewis Hamilton,HAM,Ferrari,8,Finished,4.0
+2025,6,Miami Grand Prix,55,Carlos Sainz,SAI,Williams,9,Finished,2.0
+2025,6,Miami Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,10,Finished,1.0
+2025,6,Miami Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,11,Finished,0.0
+2025,6,Miami Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,12,Finished,0.0
+2025,6,Miami Grand Prix,10,Pierre Gasly,GAS,Alpine,13,Finished,0.0
+2025,6,Miami Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,14,Lapped,0.0
+2025,6,Miami Grand Prix,14,Fernando Alonso,ALO,Aston Martin,15,Lapped,0.0
+2025,6,Miami Grand Prix,18,Lance Stroll,STR,Aston Martin,16,Lapped,0.0
+2025,6,Miami Grand Prix,30,Liam Lawson,LAW,Racing Bulls,R,Retired,0.0
+2025,6,Miami Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,R,Retired,0.0
+2025,6,Miami Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,R,Retired,0.0
+2025,6,Miami Grand Prix,7,Jack Doohan,DOO,Alpine,R,Retired,0.0
+2025,7,Emilia Romagna Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,7,Emilia Romagna Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,7,Emilia Romagna Grand Prix,81,Oscar Piastri,PIA,McLaren,3,Finished,15.0
+2025,7,Emilia Romagna Grand Prix,44,Lewis Hamilton,HAM,Ferrari,4,Finished,12.0
+2025,7,Emilia Romagna Grand Prix,23,Alexander Albon,ALB,Williams,5,Finished,10.0
+2025,7,Emilia Romagna Grand Prix,16,Charles Leclerc,LEC,Ferrari,6,Finished,8.0
+2025,7,Emilia Romagna Grand Prix,63,George Russell,RUS,Mercedes,7,Finished,6.0
+2025,7,Emilia Romagna Grand Prix,55,Carlos Sainz,SAI,Williams,8,Finished,4.0
+2025,7,Emilia Romagna Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,9,Finished,2.0
+2025,7,Emilia Romagna Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,10,Finished,1.0
+2025,7,Emilia Romagna Grand Prix,14,Fernando Alonso,ALO,Aston Martin,11,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,12,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,10,Pierre Gasly,GAS,Alpine,13,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,30,Liam Lawson,LAW,Racing Bulls,14,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,18,Lance Stroll,STR,Aston Martin,15,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,43,Franco Colapinto,COL,Alpine,16,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,17,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,18,Finished,0.0
+2025,7,Emilia Romagna Grand Prix,12,Kimi Antonelli,ANT,Mercedes,R,Retired,0.0
+2025,7,Emilia Romagna Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,R,Retired,0.0
+2025,8,Monaco Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,8,Monaco Grand Prix,16,Charles Leclerc,LEC,Ferrari,2,Finished,18.0
+2025,8,Monaco Grand Prix,81,Oscar Piastri,PIA,McLaren,3,Finished,15.0
+2025,8,Monaco Grand Prix,1,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2025,8,Monaco Grand Prix,44,Lewis Hamilton,HAM,Ferrari,5,Finished,10.0
+2025,8,Monaco Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,6,Lapped,8.0
+2025,8,Monaco Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,7,Lapped,6.0
+2025,8,Monaco Grand Prix,30,Liam Lawson,LAW,Racing Bulls,8,Lapped,4.0
+2025,8,Monaco Grand Prix,23,Alexander Albon,ALB,Williams,9,Lapped,2.0
+2025,8,Monaco Grand Prix,55,Carlos Sainz,SAI,Williams,10,Lapped,1.0
+2025,8,Monaco Grand Prix,63,George Russell,RUS,Mercedes,11,Lapped,0.0
+2025,8,Monaco Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,12,Lapped,0.0
+2025,8,Monaco Grand Prix,43,Franco Colapinto,COL,Alpine,13,Lapped,0.0
+2025,8,Monaco Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,14,Lapped,0.0
+2025,8,Monaco Grand Prix,18,Lance Stroll,STR,Aston Martin,15,Lapped,0.0
+2025,8,Monaco Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,16,Lapped,0.0
+2025,8,Monaco Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,17,Lapped,0.0
+2025,8,Monaco Grand Prix,12,Kimi Antonelli,ANT,Mercedes,18,Lapped,0.0
+2025,8,Monaco Grand Prix,14,Fernando Alonso,ALO,Aston Martin,R,Retired,0.0
+2025,8,Monaco Grand Prix,10,Pierre Gasly,GAS,Alpine,R,Retired,0.0
+2025,9,Spanish Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,9,Spanish Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,9,Spanish Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2025,9,Spanish Grand Prix,63,George Russell,RUS,Mercedes,4,Finished,12.0
+2025,9,Spanish Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,5,Finished,10.0
+2025,9,Spanish Grand Prix,44,Lewis Hamilton,HAM,Ferrari,6,Finished,8.0
+2025,9,Spanish Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,7,Finished,6.0
+2025,9,Spanish Grand Prix,10,Pierre Gasly,GAS,Alpine,8,Finished,4.0
+2025,9,Spanish Grand Prix,14,Fernando Alonso,ALO,Aston Martin,9,Finished,2.0
+2025,9,Spanish Grand Prix,1,Max Verstappen,VER,Red Bull Racing,10,Finished,1.0
+2025,9,Spanish Grand Prix,30,Liam Lawson,LAW,Racing Bulls,11,Finished,0.0
+2025,9,Spanish Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,12,Finished,0.0
+2025,9,Spanish Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,13,Finished,0.0
+2025,9,Spanish Grand Prix,55,Carlos Sainz,SAI,Williams,14,Finished,0.0
+2025,9,Spanish Grand Prix,43,Franco Colapinto,COL,Alpine,15,Finished,0.0
+2025,9,Spanish Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,16,Finished,0.0
+2025,9,Spanish Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,17,Finished,0.0
+2025,9,Spanish Grand Prix,12,Kimi Antonelli,ANT,Mercedes,R,Retired,0.0
+2025,9,Spanish Grand Prix,23,Alexander Albon,ALB,Williams,R,Retired,0.0
+2025,10,Canadian Grand Prix,63,George Russell,RUS,Mercedes,1,Finished,25.0
+2025,10,Canadian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,2,Finished,18.0
+2025,10,Canadian Grand Prix,12,Kimi Antonelli,ANT,Mercedes,3,Finished,15.0
+2025,10,Canadian Grand Prix,81,Oscar Piastri,PIA,McLaren,4,Finished,12.0
+2025,10,Canadian Grand Prix,16,Charles Leclerc,LEC,Ferrari,5,Finished,10.0
+2025,10,Canadian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,6,Finished,8.0
+2025,10,Canadian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,7,Finished,6.0
+2025,10,Canadian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,8,Finished,4.0
+2025,10,Canadian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,9,Lapped,2.0
+2025,10,Canadian Grand Prix,55,Carlos Sainz,SAI,Williams,10,Lapped,1.0
+2025,10,Canadian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,11,Lapped,0.0
+2025,10,Canadian Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,12,Lapped,0.0
+2025,10,Canadian Grand Prix,43,Franco Colapinto,COL,Alpine,13,Lapped,0.0
+2025,10,Canadian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,14,Lapped,0.0
+2025,10,Canadian Grand Prix,10,Pierre Gasly,GAS,Alpine,15,Lapped,0.0
+2025,10,Canadian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,16,Lapped,0.0
+2025,10,Canadian Grand Prix,18,Lance Stroll,STR,Aston Martin,17,Lapped,0.0
+2025,10,Canadian Grand Prix,4,Lando Norris,NOR,McLaren,18,Retired,0.0
+2025,10,Canadian Grand Prix,30,Liam Lawson,LAW,Racing Bulls,R,Retired,0.0
+2025,10,Canadian Grand Prix,23,Alexander Albon,ALB,Williams,R,Retired,0.0
+2025,11,Austrian Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,11,Austrian Grand Prix,81,Oscar Piastri,PIA,McLaren,2,Finished,18.0
+2025,11,Austrian Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2025,11,Austrian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,4,Finished,12.0
+2025,11,Austrian Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2025,11,Austrian Grand Prix,30,Liam Lawson,LAW,Racing Bulls,6,Finished,8.0
+2025,11,Austrian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,7,Lapped,6.0
+2025,11,Austrian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,8,Lapped,4.0
+2025,11,Austrian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,9,Lapped,2.0
+2025,11,Austrian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,10,Lapped,1.0
+2025,11,Austrian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,11,Lapped,0.0
+2025,11,Austrian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,12,Lapped,0.0
+2025,11,Austrian Grand Prix,10,Pierre Gasly,GAS,Alpine,13,Lapped,0.0
+2025,11,Austrian Grand Prix,18,Lance Stroll,STR,Aston Martin,14,Lapped,0.0
+2025,11,Austrian Grand Prix,43,Franco Colapinto,COL,Alpine,15,Lapped,0.0
+2025,11,Austrian Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,16,Lapped,0.0
+2025,11,Austrian Grand Prix,23,Alexander Albon,ALB,Williams,R,Retired,0.0
+2025,11,Austrian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,R,Retired,0.0
+2025,11,Austrian Grand Prix,12,Kimi Antonelli,ANT,Mercedes,R,Retired,0.0
+2025,11,Austrian Grand Prix,55,Carlos Sainz,SAI,Williams,W,Did not start,0.0
+2025,12,British Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,12,British Grand Prix,81,Oscar Piastri,PIA,McLaren,2,Finished,18.0
+2025,12,British Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,3,Finished,15.0
+2025,12,British Grand Prix,44,Lewis Hamilton,HAM,Ferrari,4,Finished,12.0
+2025,12,British Grand Prix,1,Max Verstappen,VER,Red Bull Racing,5,Finished,10.0
+2025,12,British Grand Prix,10,Pierre Gasly,GAS,Alpine,6,Finished,8.0
+2025,12,British Grand Prix,18,Lance Stroll,STR,Aston Martin,7,Finished,6.0
+2025,12,British Grand Prix,23,Alexander Albon,ALB,Williams,8,Finished,4.0
+2025,12,British Grand Prix,14,Fernando Alonso,ALO,Aston Martin,9,Finished,2.0
+2025,12,British Grand Prix,63,George Russell,RUS,Mercedes,10,Finished,1.0
+2025,12,British Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,11,Finished,0.0
+2025,12,British Grand Prix,55,Carlos Sainz,SAI,Williams,12,Finished,0.0
+2025,12,British Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,13,Finished,0.0
+2025,12,British Grand Prix,16,Charles Leclerc,LEC,Ferrari,14,Finished,0.0
+2025,12,British Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,15,Lapped,0.0
+2025,12,British Grand Prix,12,Kimi Antonelli,ANT,Mercedes,R,Retired,0.0
+2025,12,British Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,R,Retired,0.0
+2025,12,British Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,R,Retired,0.0
+2025,12,British Grand Prix,30,Liam Lawson,LAW,Racing Bulls,R,Retired,0.0
+2025,12,British Grand Prix,43,Franco Colapinto,COL,Alpine,W,Did not start,0.0
+2025,13,Belgian Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,13,Belgian Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,13,Belgian Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2025,13,Belgian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2025,13,Belgian Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2025,13,Belgian Grand Prix,23,Alexander Albon,ALB,Williams,6,Finished,8.0
+2025,13,Belgian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,7,Finished,6.0
+2025,13,Belgian Grand Prix,30,Liam Lawson,LAW,Racing Bulls,8,Finished,4.0
+2025,13,Belgian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,9,Finished,2.0
+2025,13,Belgian Grand Prix,10,Pierre Gasly,GAS,Alpine,10,Finished,1.0
+2025,13,Belgian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,11,Finished,0.0
+2025,13,Belgian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,12,Finished,0.0
+2025,13,Belgian Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,13,Finished,0.0
+2025,13,Belgian Grand Prix,18,Lance Stroll,STR,Aston Martin,14,Finished,0.0
+2025,13,Belgian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,15,Finished,0.0
+2025,13,Belgian Grand Prix,12,Kimi Antonelli,ANT,Mercedes,16,Finished,0.0
+2025,13,Belgian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,17,Finished,0.0
+2025,13,Belgian Grand Prix,55,Carlos Sainz,SAI,Williams,18,Finished,0.0
+2025,13,Belgian Grand Prix,43,Franco Colapinto,COL,Alpine,19,Finished,0.0
+2025,13,Belgian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,20,Lapped,0.0
+2025,14,Hungarian Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,14,Hungarian Grand Prix,81,Oscar Piastri,PIA,McLaren,2,Finished,18.0
+2025,14,Hungarian Grand Prix,63,George Russell,RUS,Mercedes,3,Finished,15.0
+2025,14,Hungarian Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2025,14,Hungarian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,5,Finished,10.0
+2025,14,Hungarian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,6,Finished,8.0
+2025,14,Hungarian Grand Prix,18,Lance Stroll,STR,Aston Martin,7,Finished,6.0
+2025,14,Hungarian Grand Prix,30,Liam Lawson,LAW,Racing Bulls,8,Finished,4.0
+2025,14,Hungarian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,9,Finished,2.0
+2025,14,Hungarian Grand Prix,12,Kimi Antonelli,ANT,Mercedes,10,Lapped,1.0
+2025,14,Hungarian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,11,Lapped,0.0
+2025,14,Hungarian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,12,Lapped,0.0
+2025,14,Hungarian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,13,Lapped,0.0
+2025,14,Hungarian Grand Prix,55,Carlos Sainz,SAI,Williams,14,Lapped,0.0
+2025,14,Hungarian Grand Prix,23,Alexander Albon,ALB,Williams,15,Lapped,0.0
+2025,14,Hungarian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,16,Lapped,0.0
+2025,14,Hungarian Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,17,Lapped,0.0
+2025,14,Hungarian Grand Prix,43,Franco Colapinto,COL,Alpine,18,Lapped,0.0
+2025,14,Hungarian Grand Prix,10,Pierre Gasly,GAS,Alpine,19,Lapped,0.0
+2025,14,Hungarian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,R,Retired,0.0
+2025,15,Dutch Grand Prix,81,Oscar Piastri,PIA,McLaren,1,Finished,25.0
+2025,15,Dutch Grand Prix,1,Max Verstappen,VER,Red Bull Racing,2,Finished,18.0
+2025,15,Dutch Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,3,Finished,15.0
+2025,15,Dutch Grand Prix,63,George Russell,RUS,Mercedes,4,Finished,12.0
+2025,15,Dutch Grand Prix,23,Alexander Albon,ALB,Williams,5,Finished,10.0
+2025,15,Dutch Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,6,Finished,8.0
+2025,15,Dutch Grand Prix,18,Lance Stroll,STR,Aston Martin,7,Finished,6.0
+2025,15,Dutch Grand Prix,14,Fernando Alonso,ALO,Aston Martin,8,Finished,4.0
+2025,15,Dutch Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,9,Finished,2.0
+2025,15,Dutch Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,10,Finished,1.0
+2025,15,Dutch Grand Prix,43,Franco Colapinto,COL,Alpine,11,Finished,0.0
+2025,15,Dutch Grand Prix,30,Liam Lawson,LAW,Racing Bulls,12,Finished,0.0
+2025,15,Dutch Grand Prix,55,Carlos Sainz,SAI,Williams,13,Finished,0.0
+2025,15,Dutch Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,14,Finished,0.0
+2025,15,Dutch Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,15,Finished,0.0
+2025,15,Dutch Grand Prix,12,Kimi Antonelli,ANT,Mercedes,16,Finished,0.0
+2025,15,Dutch Grand Prix,10,Pierre Gasly,GAS,Alpine,17,Finished,0.0
+2025,15,Dutch Grand Prix,4,Lando Norris,NOR,McLaren,18,Retired,0.0
+2025,15,Dutch Grand Prix,16,Charles Leclerc,LEC,Ferrari,R,Retired,0.0
+2025,15,Dutch Grand Prix,44,Lewis Hamilton,HAM,Ferrari,R,Retired,0.0
+2025,16,Italian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,16,Italian Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,16,Italian Grand Prix,81,Oscar Piastri,PIA,McLaren,3,Finished,15.0
+2025,16,Italian Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2025,16,Italian Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2025,16,Italian Grand Prix,44,Lewis Hamilton,HAM,Ferrari,6,Finished,8.0
+2025,16,Italian Grand Prix,23,Alexander Albon,ALB,Williams,7,Finished,6.0
+2025,16,Italian Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,8,Finished,4.0
+2025,16,Italian Grand Prix,12,Kimi Antonelli,ANT,Mercedes,9,Finished,2.0
+2025,16,Italian Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,10,Finished,1.0
+2025,16,Italian Grand Prix,55,Carlos Sainz,SAI,Williams,11,Finished,0.0
+2025,16,Italian Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,12,Finished,0.0
+2025,16,Italian Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,13,Finished,0.0
+2025,16,Italian Grand Prix,30,Liam Lawson,LAW,Racing Bulls,14,Finished,0.0
+2025,16,Italian Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,15,Lapped,0.0
+2025,16,Italian Grand Prix,10,Pierre Gasly,GAS,Alpine,16,Lapped,0.0
+2025,16,Italian Grand Prix,43,Franco Colapinto,COL,Alpine,17,Lapped,0.0
+2025,16,Italian Grand Prix,18,Lance Stroll,STR,Aston Martin,18,Lapped,0.0
+2025,16,Italian Grand Prix,14,Fernando Alonso,ALO,Aston Martin,R,Retired,0.0
+2025,16,Italian Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,W,Did not start,0.0
+2025,17,Azerbaijan Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,17,Azerbaijan Grand Prix,63,George Russell,RUS,Mercedes,2,Finished,18.0
+2025,17,Azerbaijan Grand Prix,55,Carlos Sainz,SAI,Williams,3,Finished,15.0
+2025,17,Azerbaijan Grand Prix,12,Kimi Antonelli,ANT,Mercedes,4,Finished,12.0
+2025,17,Azerbaijan Grand Prix,30,Liam Lawson,LAW,Racing Bulls,5,Finished,10.0
+2025,17,Azerbaijan Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,6,Finished,8.0
+2025,17,Azerbaijan Grand Prix,4,Lando Norris,NOR,McLaren,7,Finished,6.0
+2025,17,Azerbaijan Grand Prix,44,Lewis Hamilton,HAM,Ferrari,8,Finished,4.0
+2025,17,Azerbaijan Grand Prix,16,Charles Leclerc,LEC,Ferrari,9,Finished,2.0
+2025,17,Azerbaijan Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,10,Finished,1.0
+2025,17,Azerbaijan Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,11,Finished,0.0
+2025,17,Azerbaijan Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,12,Finished,0.0
+2025,17,Azerbaijan Grand Prix,23,Alexander Albon,ALB,Williams,13,Finished,0.0
+2025,17,Azerbaijan Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,14,Finished,0.0
+2025,17,Azerbaijan Grand Prix,14,Fernando Alonso,ALO,Aston Martin,15,Finished,0.0
+2025,17,Azerbaijan Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,16,Finished,0.0
+2025,17,Azerbaijan Grand Prix,18,Lance Stroll,STR,Aston Martin,17,Finished,0.0
+2025,17,Azerbaijan Grand Prix,10,Pierre Gasly,GAS,Alpine,18,Lapped,0.0
+2025,17,Azerbaijan Grand Prix,43,Franco Colapinto,COL,Alpine,19,Lapped,0.0
+2025,17,Azerbaijan Grand Prix,81,Oscar Piastri,PIA,McLaren,R,Retired,0.0
+2025,18,Singapore Grand Prix,63,George Russell,RUS,Mercedes,1,Finished,25.0
+2025,18,Singapore Grand Prix,1,Max Verstappen,VER,Red Bull Racing,2,Finished,18.0
+2025,18,Singapore Grand Prix,4,Lando Norris,NOR,McLaren,3,Finished,15.0
+2025,18,Singapore Grand Prix,81,Oscar Piastri,PIA,McLaren,4,Finished,12.0
+2025,18,Singapore Grand Prix,12,Kimi Antonelli,ANT,Mercedes,5,Finished,10.0
+2025,18,Singapore Grand Prix,16,Charles Leclerc,LEC,Ferrari,6,Finished,8.0
+2025,18,Singapore Grand Prix,14,Fernando Alonso,ALO,Aston Martin,7,Finished,6.0
+2025,18,Singapore Grand Prix,44,Lewis Hamilton,HAM,Ferrari,8,Finished,4.0
+2025,18,Singapore Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,9,Finished,2.0
+2025,18,Singapore Grand Prix,55,Carlos Sainz,SAI,Williams,10,Lapped,1.0
+2025,18,Singapore Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,11,Lapped,0.0
+2025,18,Singapore Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,12,Lapped,0.0
+2025,18,Singapore Grand Prix,18,Lance Stroll,STR,Aston Martin,13,Lapped,0.0
+2025,18,Singapore Grand Prix,23,Alexander Albon,ALB,Williams,14,Lapped,0.0
+2025,18,Singapore Grand Prix,30,Liam Lawson,LAW,Racing Bulls,15,Lapped,0.0
+2025,18,Singapore Grand Prix,43,Franco Colapinto,COL,Alpine,16,Lapped,0.0
+2025,18,Singapore Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,17,Lapped,0.0
+2025,18,Singapore Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,18,Lapped,0.0
+2025,18,Singapore Grand Prix,10,Pierre Gasly,GAS,Alpine,19,Lapped,0.0
+2025,18,Singapore Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,20,Lapped,0.0
+2025,19,United States Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,19,United States Grand Prix,4,Lando Norris,NOR,McLaren,2,Finished,18.0
+2025,19,United States Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2025,19,United States Grand Prix,44,Lewis Hamilton,HAM,Ferrari,4,Finished,12.0
+2025,19,United States Grand Prix,81,Oscar Piastri,PIA,McLaren,5,Finished,10.0
+2025,19,United States Grand Prix,63,George Russell,RUS,Mercedes,6,Finished,8.0
+2025,19,United States Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,7,Finished,6.0
+2025,19,United States Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,8,Finished,4.0
+2025,19,United States Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,9,Finished,2.0
+2025,19,United States Grand Prix,14,Fernando Alonso,ALO,Aston Martin,10,Finished,1.0
+2025,19,United States Grand Prix,30,Liam Lawson,LAW,Racing Bulls,11,Finished,0.0
+2025,19,United States Grand Prix,18,Lance Stroll,STR,Aston Martin,12,Finished,0.0
+2025,19,United States Grand Prix,12,Kimi Antonelli,ANT,Mercedes,13,Finished,0.0
+2025,19,United States Grand Prix,23,Alexander Albon,ALB,Williams,14,Finished,0.0
+2025,19,United States Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,15,Finished,0.0
+2025,19,United States Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,16,Finished,0.0
+2025,19,United States Grand Prix,43,Franco Colapinto,COL,Alpine,17,Lapped,0.0
+2025,19,United States Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,18,Lapped,0.0
+2025,19,United States Grand Prix,10,Pierre Gasly,GAS,Alpine,19,Lapped,0.0
+2025,19,United States Grand Prix,55,Carlos Sainz,SAI,Williams,R,Retired,0.0
+2025,20,Mexico City Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,20,Mexico City Grand Prix,16,Charles Leclerc,LEC,Ferrari,2,Finished,18.0
+2025,20,Mexico City Grand Prix,1,Max Verstappen,VER,Red Bull Racing,3,Finished,15.0
+2025,20,Mexico City Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,4,Finished,12.0
+2025,20,Mexico City Grand Prix,81,Oscar Piastri,PIA,McLaren,5,Finished,10.0
+2025,20,Mexico City Grand Prix,12,Kimi Antonelli,ANT,Mercedes,6,Finished,8.0
+2025,20,Mexico City Grand Prix,63,George Russell,RUS,Mercedes,7,Finished,6.0
+2025,20,Mexico City Grand Prix,44,Lewis Hamilton,HAM,Ferrari,8,Finished,4.0
+2025,20,Mexico City Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,9,Finished,2.0
+2025,20,Mexico City Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,10,Finished,1.0
+2025,20,Mexico City Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,11,Finished,0.0
+2025,20,Mexico City Grand Prix,23,Alexander Albon,ALB,Williams,12,Lapped,0.0
+2025,20,Mexico City Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,13,Lapped,0.0
+2025,20,Mexico City Grand Prix,18,Lance Stroll,STR,Aston Martin,14,Lapped,0.0
+2025,20,Mexico City Grand Prix,10,Pierre Gasly,GAS,Alpine,15,Lapped,0.0
+2025,20,Mexico City Grand Prix,43,Franco Colapinto,COL,Alpine,16,Lapped,0.0
+2025,20,Mexico City Grand Prix,55,Carlos Sainz,SAI,Williams,17,Retired,0.0
+2025,20,Mexico City Grand Prix,14,Fernando Alonso,ALO,Aston Martin,R,Retired,0.0
+2025,20,Mexico City Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,R,Retired,0.0
+2025,20,Mexico City Grand Prix,30,Liam Lawson,LAW,Racing Bulls,R,Retired,0.0
+2025,21,São Paulo Grand Prix,4,Lando Norris,NOR,McLaren,1,Finished,25.0
+2025,21,São Paulo Grand Prix,12,Kimi Antonelli,ANT,Mercedes,2,Finished,18.0
+2025,21,São Paulo Grand Prix,1,Max Verstappen,VER,Red Bull Racing,3,Finished,15.0
+2025,21,São Paulo Grand Prix,63,George Russell,RUS,Mercedes,4,Finished,12.0
+2025,21,São Paulo Grand Prix,81,Oscar Piastri,PIA,McLaren,5,Finished,10.0
+2025,21,São Paulo Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,6,Finished,8.0
+2025,21,São Paulo Grand Prix,30,Liam Lawson,LAW,Racing Bulls,7,Finished,6.0
+2025,21,São Paulo Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,8,Finished,4.0
+2025,21,São Paulo Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,9,Finished,2.0
+2025,21,São Paulo Grand Prix,10,Pierre Gasly,GAS,Alpine,10,Finished,1.0
+2025,21,São Paulo Grand Prix,23,Alexander Albon,ALB,Williams,11,Finished,0.0
+2025,21,São Paulo Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,12,Finished,0.0
+2025,21,São Paulo Grand Prix,55,Carlos Sainz,SAI,Williams,13,Finished,0.0
+2025,21,São Paulo Grand Prix,14,Fernando Alonso,ALO,Aston Martin,14,Finished,0.0
+2025,21,São Paulo Grand Prix,43,Franco Colapinto,COL,Alpine,15,Finished,0.0
+2025,21,São Paulo Grand Prix,18,Lance Stroll,STR,Aston Martin,16,Finished,0.0
+2025,21,São Paulo Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,17,Finished,0.0
+2025,21,São Paulo Grand Prix,44,Lewis Hamilton,HAM,Ferrari,R,Retired,0.0
+2025,21,São Paulo Grand Prix,16,Charles Leclerc,LEC,Ferrari,R,Retired,0.0
+2025,21,São Paulo Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,R,Retired,0.0
+2025,22,Las Vegas Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,22,Las Vegas Grand Prix,63,George Russell,RUS,Mercedes,2,Finished,18.0
+2025,22,Las Vegas Grand Prix,12,Kimi Antonelli,ANT,Mercedes,3,Finished,15.0
+2025,22,Las Vegas Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2025,22,Las Vegas Grand Prix,55,Carlos Sainz,SAI,Williams,5,Finished,10.0
+2025,22,Las Vegas Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,6,Finished,8.0
+2025,22,Las Vegas Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,7,Finished,6.0
+2025,22,Las Vegas Grand Prix,44,Lewis Hamilton,HAM,Ferrari,8,Finished,4.0
+2025,22,Las Vegas Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,9,Finished,2.0
+2025,22,Las Vegas Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,10,Finished,1.0
+2025,22,Las Vegas Grand Prix,14,Fernando Alonso,ALO,Aston Martin,11,Finished,0.0
+2025,22,Las Vegas Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,12,Finished,0.0
+2025,22,Las Vegas Grand Prix,10,Pierre Gasly,GAS,Alpine,13,Finished,0.0
+2025,22,Las Vegas Grand Prix,30,Liam Lawson,LAW,Racing Bulls,14,Lapped,0.0
+2025,22,Las Vegas Grand Prix,43,Franco Colapinto,COL,Alpine,15,Lapped,0.0
+2025,22,Las Vegas Grand Prix,23,Alexander Albon,ALB,Williams,R,Retired,0.0
+2025,22,Las Vegas Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,R,Retired,0.0
+2025,22,Las Vegas Grand Prix,18,Lance Stroll,STR,Aston Martin,R,Retired,0.0
+2025,22,Las Vegas Grand Prix,4,Lando Norris,NOR,McLaren,D,Disqualified,0.0
+2025,22,Las Vegas Grand Prix,81,Oscar Piastri,PIA,McLaren,D,Disqualified,0.0
+2025,23,Qatar Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,23,Qatar Grand Prix,81,Oscar Piastri,PIA,McLaren,2,Finished,18.0
+2025,23,Qatar Grand Prix,55,Carlos Sainz,SAI,Williams,3,Finished,15.0
+2025,23,Qatar Grand Prix,4,Lando Norris,NOR,McLaren,4,Finished,12.0
+2025,23,Qatar Grand Prix,12,Kimi Antonelli,ANT,Mercedes,5,Finished,10.0
+2025,23,Qatar Grand Prix,63,George Russell,RUS,Mercedes,6,Finished,8.0
+2025,23,Qatar Grand Prix,14,Fernando Alonso,ALO,Aston Martin,7,Finished,6.0
+2025,23,Qatar Grand Prix,16,Charles Leclerc,LEC,Ferrari,8,Finished,4.0
+2025,23,Qatar Grand Prix,30,Liam Lawson,LAW,Racing Bulls,9,Finished,2.0
+2025,23,Qatar Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,10,Finished,1.0
+2025,23,Qatar Grand Prix,23,Alexander Albon,ALB,Williams,11,Finished,0.0
+2025,23,Qatar Grand Prix,44,Lewis Hamilton,HAM,Ferrari,12,Finished,0.0
+2025,23,Qatar Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,13,Finished,0.0
+2025,23,Qatar Grand Prix,43,Franco Colapinto,COL,Alpine,14,Lapped,0.0
+2025,23,Qatar Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,15,Lapped,0.0
+2025,23,Qatar Grand Prix,10,Pierre Gasly,GAS,Alpine,16,Lapped,0.0
+2025,23,Qatar Grand Prix,18,Lance Stroll,STR,Aston Martin,17,Retired,0.0
+2025,23,Qatar Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,18,Retired,0.0
+2025,23,Qatar Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,R,Retired,0.0
+2025,23,Qatar Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,R,Retired,0.0
+2025,24,Abu Dhabi Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2025,24,Abu Dhabi Grand Prix,81,Oscar Piastri,PIA,McLaren,2,Finished,18.0
+2025,24,Abu Dhabi Grand Prix,4,Lando Norris,NOR,McLaren,3,Finished,15.0
+2025,24,Abu Dhabi Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2025,24,Abu Dhabi Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2025,24,Abu Dhabi Grand Prix,14,Fernando Alonso,ALO,Aston Martin,6,Finished,8.0
+2025,24,Abu Dhabi Grand Prix,31,Esteban Ocon,OCO,Haas F1 Team,7,Finished,6.0
+2025,24,Abu Dhabi Grand Prix,44,Lewis Hamilton,HAM,Ferrari,8,Finished,4.0
+2025,24,Abu Dhabi Grand Prix,27,Nico Hulkenberg,HUL,Kick Sauber,9,Finished,2.0
+2025,24,Abu Dhabi Grand Prix,18,Lance Stroll,STR,Aston Martin,10,Finished,1.0
+2025,24,Abu Dhabi Grand Prix,5,Gabriel Bortoleto,BOR,Kick Sauber,11,Finished,0.0
+2025,24,Abu Dhabi Grand Prix,87,Oliver Bearman,BEA,Haas F1 Team,12,Finished,0.0
+2025,24,Abu Dhabi Grand Prix,55,Carlos Sainz,SAI,Williams,13,Finished,0.0
+2025,24,Abu Dhabi Grand Prix,22,Yuki Tsunoda,TSU,Red Bull Racing,14,Finished,0.0
+2025,24,Abu Dhabi Grand Prix,12,Kimi Antonelli,ANT,Mercedes,15,Finished,0.0
+2025,24,Abu Dhabi Grand Prix,23,Alexander Albon,ALB,Williams,16,Finished,0.0
+2025,24,Abu Dhabi Grand Prix,6,Isack Hadjar,HAD,Racing Bulls,17,Lapped,0.0
+2025,24,Abu Dhabi Grand Prix,30,Liam Lawson,LAW,Racing Bulls,18,Lapped,0.0
+2025,24,Abu Dhabi Grand Prix,10,Pierre Gasly,GAS,Alpine,19,Lapped,0.0
+2025,24,Abu Dhabi Grand Prix,43,Franco Colapinto,COL,Alpine,20,Lapped,0.0
