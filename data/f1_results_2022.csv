@@ -1,0 +1,121 @@
+season,round,race_name,driver_number,driver_name,abbreviation,team,final_position,status,points_scored
+2022,1,Bahrain Grand Prix,16,Charles Leclerc,LEC,Ferrari,1,Finished,26.0
+2022,1,Bahrain Grand Prix,55,Carlos Sainz,SAI,Ferrari,2,Finished,18.0
+2022,1,Bahrain Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,15.0
+2022,1,Bahrain Grand Prix,63,George Russell,RUS,Mercedes,4,Finished,12.0
+2022,1,Bahrain Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,5,Finished,10.0
+2022,1,Bahrain Grand Prix,77,Valtteri Bottas,BOT,Alfa Romeo,6,Finished,8.0
+2022,1,Bahrain Grand Prix,31,Esteban Ocon,OCO,Alpine,7,Finished,6.0
+2022,1,Bahrain Grand Prix,22,Yuki Tsunoda,TSU,AlphaTauri,8,Finished,4.0
+2022,1,Bahrain Grand Prix,14,Fernando Alonso,ALO,Alpine,9,Finished,2.0
+2022,1,Bahrain Grand Prix,24,Guanyu Zhou,ZHO,Alfa Romeo,10,Finished,1.0
+2022,1,Bahrain Grand Prix,47,Mick Schumacher,MSC,Haas F1 Team,11,Finished,0.0
+2022,1,Bahrain Grand Prix,18,Lance Stroll,STR,Aston Martin,12,Finished,0.0
+2022,1,Bahrain Grand Prix,23,Alexander Albon,ALB,Williams,13,Finished,0.0
+2022,1,Bahrain Grand Prix,3,Daniel Ricciardo,RIC,McLaren,14,Finished,0.0
+2022,1,Bahrain Grand Prix,4,Lando Norris,NOR,McLaren,15,Finished,0.0
+2022,1,Bahrain Grand Prix,6,Nicholas Latifi,LAT,Williams,16,Finished,0.0
+2022,1,Bahrain Grand Prix,27,Nico Hulkenberg,HUL,Aston Martin,17,Finished,0.0
+2022,1,Bahrain Grand Prix,11,Sergio Perez,PER,Red Bull Racing,18,Fuel pressure,0.0
+2022,1,Bahrain Grand Prix,1,Max Verstappen,VER,Red Bull Racing,19,Fuel pressure,0.0
+2022,1,Bahrain Grand Prix,10,Pierre Gasly,GAS,AlphaTauri,R,Power Unit,0.0
+2022,2,Saudi Arabian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2022,2,Saudi Arabian Grand Prix,16,Charles Leclerc,LEC,Ferrari,2,Finished,19.0
+2022,2,Saudi Arabian Grand Prix,55,Carlos Sainz,SAI,Ferrari,3,Finished,15.0
+2022,2,Saudi Arabian Grand Prix,11,Sergio Perez,PER,Red Bull Racing,4,Finished,12.0
+2022,2,Saudi Arabian Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2022,2,Saudi Arabian Grand Prix,31,Esteban Ocon,OCO,Alpine,6,Finished,8.0
+2022,2,Saudi Arabian Grand Prix,4,Lando Norris,NOR,McLaren,7,Finished,6.0
+2022,2,Saudi Arabian Grand Prix,10,Pierre Gasly,GAS,AlphaTauri,8,Finished,4.0
+2022,2,Saudi Arabian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,9,Finished,2.0
+2022,2,Saudi Arabian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,10,Finished,1.0
+2022,2,Saudi Arabian Grand Prix,24,Guanyu Zhou,ZHO,Alfa Romeo,11,Finished,0.0
+2022,2,Saudi Arabian Grand Prix,27,Nico Hulkenberg,HUL,Aston Martin,12,Finished,0.0
+2022,2,Saudi Arabian Grand Prix,18,Lance Stroll,STR,Aston Martin,13,+1 Lap,0.0
+2022,2,Saudi Arabian Grand Prix,23,Alexander Albon,ALB,Williams,14,Collision damage,0.0
+2022,2,Saudi Arabian Grand Prix,77,Valtteri Bottas,BOT,Alfa Romeo,R,Cooling system,0.0
+2022,2,Saudi Arabian Grand Prix,14,Fernando Alonso,ALO,Alpine,R,Water pump,0.0
+2022,2,Saudi Arabian Grand Prix,3,Daniel Ricciardo,RIC,McLaren,R,Gearbox,0.0
+2022,2,Saudi Arabian Grand Prix,6,Nicholas Latifi,LAT,Williams,R,Accident,0.0
+2022,2,Saudi Arabian Grand Prix,22,Yuki Tsunoda,TSU,AlphaTauri,R,Power Unit,0.0
+2022,2,Saudi Arabian Grand Prix,47,Mick Schumacher,MSC,Haas F1 Team,W,Withdrew,0.0
+2022,3,Australian Grand Prix,16,Charles Leclerc,LEC,Ferrari,1,Finished,26.0
+2022,3,Australian Grand Prix,11,Sergio Perez,PER,Red Bull Racing,2,Finished,18.0
+2022,3,Australian Grand Prix,63,George Russell,RUS,Mercedes,3,Finished,15.0
+2022,3,Australian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,4,Finished,12.0
+2022,3,Australian Grand Prix,4,Lando Norris,NOR,McLaren,5,Finished,10.0
+2022,3,Australian Grand Prix,3,Daniel Ricciardo,RIC,McLaren,6,Finished,8.0
+2022,3,Australian Grand Prix,31,Esteban Ocon,OCO,Alpine,7,Finished,6.0
+2022,3,Australian Grand Prix,77,Valtteri Bottas,BOT,Alfa Romeo,8,Finished,4.0
+2022,3,Australian Grand Prix,10,Pierre Gasly,GAS,AlphaTauri,9,Finished,2.0
+2022,3,Australian Grand Prix,23,Alexander Albon,ALB,Williams,10,Finished,1.0
+2022,3,Australian Grand Prix,24,Guanyu Zhou,ZHO,Alfa Romeo,11,Finished,0.0
+2022,3,Australian Grand Prix,18,Lance Stroll,STR,Aston Martin,12,Finished,0.0
+2022,3,Australian Grand Prix,47,Mick Schumacher,MSC,Haas F1 Team,13,+1 Lap,0.0
+2022,3,Australian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,14,+1 Lap,0.0
+2022,3,Australian Grand Prix,22,Yuki Tsunoda,TSU,AlphaTauri,15,+1 Lap,0.0
+2022,3,Australian Grand Prix,6,Nicholas Latifi,LAT,Williams,16,+1 Lap,0.0
+2022,3,Australian Grand Prix,14,Fernando Alonso,ALO,Alpine,17,+1 Lap,0.0
+2022,3,Australian Grand Prix,1,Max Verstappen,VER,Red Bull Racing,R,Fuel leak,0.0
+2022,3,Australian Grand Prix,5,Sebastian Vettel,VET,Aston Martin,R,Accident,0.0
+2022,3,Australian Grand Prix,55,Carlos Sainz,SAI,Ferrari,R,Spun off,0.0
+2022,4,Emilia Romagna Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,26.0
+2022,4,Emilia Romagna Grand Prix,11,Sergio Perez,PER,Red Bull Racing,2,Finished,18.0
+2022,4,Emilia Romagna Grand Prix,4,Lando Norris,NOR,McLaren,3,Finished,15.0
+2022,4,Emilia Romagna Grand Prix,63,George Russell,RUS,Mercedes,4,Finished,12.0
+2022,4,Emilia Romagna Grand Prix,77,Valtteri Bottas,BOT,Alfa Romeo,5,Finished,10.0
+2022,4,Emilia Romagna Grand Prix,16,Charles Leclerc,LEC,Ferrari,6,Finished,8.0
+2022,4,Emilia Romagna Grand Prix,22,Yuki Tsunoda,TSU,AlphaTauri,7,Finished,6.0
+2022,4,Emilia Romagna Grand Prix,5,Sebastian Vettel,VET,Aston Martin,8,Finished,4.0
+2022,4,Emilia Romagna Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,9,Finished,2.0
+2022,4,Emilia Romagna Grand Prix,18,Lance Stroll,STR,Aston Martin,10,+1 Lap,1.0
+2022,4,Emilia Romagna Grand Prix,23,Alexander Albon,ALB,Williams,11,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,10,Pierre Gasly,GAS,AlphaTauri,12,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,44,Lewis Hamilton,HAM,Mercedes,13,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,31,Esteban Ocon,OCO,Alpine,14,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,24,Guanyu Zhou,ZHO,Alfa Romeo,15,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,6,Nicholas Latifi,LAT,Williams,16,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,47,Mick Schumacher,MSC,Haas F1 Team,17,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,3,Daniel Ricciardo,RIC,McLaren,18,+1 Lap,0.0
+2022,4,Emilia Romagna Grand Prix,14,Fernando Alonso,ALO,Alpine,R,Collision damage,0.0
+2022,4,Emilia Romagna Grand Prix,55,Carlos Sainz,SAI,Ferrari,R,Collision,0.0
+2022,5,Miami Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,26.0
+2022,5,Miami Grand Prix,16,Charles Leclerc,LEC,Ferrari,2,Finished,18.0
+2022,5,Miami Grand Prix,55,Carlos Sainz,SAI,Ferrari,3,Finished,15.0
+2022,5,Miami Grand Prix,11,Sergio Perez,PER,Red Bull Racing,4,Finished,12.0
+2022,5,Miami Grand Prix,63,George Russell,RUS,Mercedes,5,Finished,10.0
+2022,5,Miami Grand Prix,44,Lewis Hamilton,HAM,Mercedes,6,Finished,8.0
+2022,5,Miami Grand Prix,77,Valtteri Bottas,BOT,Alfa Romeo,7,Finished,6.0
+2022,5,Miami Grand Prix,31,Esteban Ocon,OCO,Alpine,8,Finished,4.0
+2022,5,Miami Grand Prix,23,Alexander Albon,ALB,Williams,9,Finished,2.0
+2022,5,Miami Grand Prix,18,Lance Stroll,STR,Aston Martin,10,Finished,1.0
+2022,5,Miami Grand Prix,14,Fernando Alonso,ALO,Alpine,11,Finished,0.0
+2022,5,Miami Grand Prix,22,Yuki Tsunoda,TSU,AlphaTauri,12,Finished,0.0
+2022,5,Miami Grand Prix,3,Daniel Ricciardo,RIC,McLaren,13,Finished,0.0
+2022,5,Miami Grand Prix,6,Nicholas Latifi,LAT,Williams,14,Finished,0.0
+2022,5,Miami Grand Prix,47,Mick Schumacher,MSC,Haas F1 Team,15,Finished,0.0
+2022,5,Miami Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,16,Front wing,0.0
+2022,5,Miami Grand Prix,5,Sebastian Vettel,VET,Aston Martin,17,Collision,0.0
+2022,5,Miami Grand Prix,10,Pierre Gasly,GAS,AlphaTauri,R,Suspension,0.0
+2022,5,Miami Grand Prix,4,Lando Norris,NOR,McLaren,R,Collision,0.0
+2022,5,Miami Grand Prix,24,Guanyu Zhou,ZHO,Alfa Romeo,R,Water leak,0.0
+2022,6,Spanish Grand Prix,1,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2022,6,Spanish Grand Prix,11,Sergio Perez,PER,Red Bull Racing,2,Finished,19.0
+2022,6,Spanish Grand Prix,63,George Russell,RUS,Mercedes,3,Finished,15.0
+2022,6,Spanish Grand Prix,55,Carlos Sainz,SAI,Ferrari,4,Finished,12.0
+2022,6,Spanish Grand Prix,44,Lewis Hamilton,HAM,Mercedes,5,Finished,10.0
+2022,6,Spanish Grand Prix,77,Valtteri Bottas,BOT,Alfa Romeo,6,Finished,8.0
+2022,6,Spanish Grand Prix,31,Esteban Ocon,OCO,Alpine,7,Finished,6.0
+2022,6,Spanish Grand Prix,4,Lando Norris,NOR,McLaren,8,Finished,4.0
+2022,6,Spanish Grand Prix,14,Fernando Alonso,ALO,Alpine,9,+1 Lap,2.0
+2022,6,Spanish Grand Prix,22,Yuki Tsunoda,TSU,AlphaTauri,10,+1 Lap,1.0
+2022,6,Spanish Grand Prix,5,Sebastian Vettel,VET,Aston Martin,11,+1 Lap,0.0
+2022,6,Spanish Grand Prix,3,Daniel Ricciardo,RIC,McLaren,12,+1 Lap,0.0
+2022,6,Spanish Grand Prix,10,Pierre Gasly,GAS,AlphaTauri,13,+1 Lap,0.0
+2022,6,Spanish Grand Prix,47,Mick Schumacher,MSC,Haas F1 Team,14,+1 Lap,0.0
+2022,6,Spanish Grand Prix,18,Lance Stroll,STR,Aston Martin,15,+1 Lap,0.0
+2022,6,Spanish Grand Prix,6,Nicholas Latifi,LAT,Williams,16,+2 Laps,0.0
+2022,6,Spanish Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,17,+2 Laps,0.0
+2022,6,Spanish Grand Prix,23,Alexander Albon,ALB,Williams,18,+2 Laps,0.0
+2022,6,Spanish Grand Prix,24,Guanyu Zhou,ZHO,Alfa Romeo,R,Power loss,0.0
+2022,6,Spanish Grand Prix,16,Charles Leclerc,LEC,Ferrari,R,Turbo,0.0

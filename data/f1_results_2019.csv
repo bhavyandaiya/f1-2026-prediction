@@ -1,0 +1,421 @@
+season,round,race_name,driver_number,driver_name,abbreviation,team,final_position,status,points_scored
+2019,1,Australian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,26.0
+2019,1,Australian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2019,1,Australian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,3,Finished,15.0
+2019,1,Australian Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2019,1,Australian Grand Prix,16,Charles Leclerc,LEC,Ferrari,5,Finished,10.0
+2019,1,Australian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,6,Finished,8.0
+2019,1,Australian Grand Prix,27,Nico Hulkenberg,HUL,Renault,7,+1 Lap,6.0
+2019,1,Australian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,8,+1 Lap,4.0
+2019,1,Australian Grand Prix,18,Lance Stroll,STR,Racing Point,9,+1 Lap,2.0
+2019,1,Australian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,+1 Lap,1.0
+2019,1,Australian Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,11,+1 Lap,0.0
+2019,1,Australian Grand Prix,4,Lando Norris,NOR,McLaren,12,+1 Lap,0.0
+2019,1,Australian Grand Prix,11,Sergio Perez,PER,Racing Point,13,+1 Lap,0.0
+2019,1,Australian Grand Prix,23,Alexander Albon,ALB,Toro Rosso,14,+1 Lap,0.0
+2019,1,Australian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15,+1 Lap,0.0
+2019,1,Australian Grand Prix,63,George Russell,RUS,Williams,16,+2 Laps,0.0
+2019,1,Australian Grand Prix,88,Robert Kubica,KUB,Williams,17,+3 Laps,0.0
+2019,1,Australian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Wheel,0.0
+2019,1,Australian Grand Prix,3,Daniel Ricciardo,RIC,Renault,R,Damage,0.0
+2019,1,Australian Grand Prix,55,Carlos Sainz,SAI,McLaren,R,Engine,0.0
+2019,2,Bahrain Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,2,Bahrain Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,2,Bahrain Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,16.0
+2019,2,Bahrain Grand Prix,33,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2019,2,Bahrain Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,10.0
+2019,2,Bahrain Grand Prix,4,Lando Norris,NOR,McLaren,6,Finished,8.0
+2019,2,Bahrain Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,7,Finished,6.0
+2019,2,Bahrain Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,8,Finished,4.0
+2019,2,Bahrain Grand Prix,23,Alexander Albon,ALB,Toro Rosso,9,Finished,2.0
+2019,2,Bahrain Grand Prix,11,Sergio Perez,PER,Racing Point,10,Finished,1.0
+2019,2,Bahrain Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,11,Finished,0.0
+2019,2,Bahrain Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,18,Lance Stroll,STR,Racing Point,14,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,63,George Russell,RUS,Williams,15,+1 Lap,0.0
+2019,2,Bahrain Grand Prix,88,Robert Kubica,KUB,Williams,16,+2 Laps,0.0
+2019,2,Bahrain Grand Prix,27,Nico Hulkenberg,HUL,Renault,R,Engine,0.0
+2019,2,Bahrain Grand Prix,3,Daniel Ricciardo,RIC,Renault,R,Out of fuel,0.0
+2019,2,Bahrain Grand Prix,55,Carlos Sainz,SAI,McLaren,R,Collision damage,0.0
+2019,2,Bahrain Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Retired,0.0
+2019,3,Chinese Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,3,Chinese Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,3,Chinese Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2019,3,Chinese Grand Prix,33,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2019,3,Chinese Grand Prix,16,Charles Leclerc,LEC,Ferrari,5,Finished,10.0
+2019,3,Chinese Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,6,Finished,9.0
+2019,3,Chinese Grand Prix,3,Daniel Ricciardo,RIC,Renault,7,+1 Lap,6.0
+2019,3,Chinese Grand Prix,11,Sergio Perez,PER,Racing Point,8,+1 Lap,4.0
+2019,3,Chinese Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,9,+1 Lap,2.0
+2019,3,Chinese Grand Prix,23,Alexander Albon,ALB,Toro Rosso,10,+1 Lap,1.0
+2019,3,Chinese Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,+1 Lap,0.0
+2019,3,Chinese Grand Prix,18,Lance Stroll,STR,Racing Point,12,+1 Lap,0.0
+2019,3,Chinese Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2019,3,Chinese Grand Prix,55,Carlos Sainz,SAI,McLaren,14,+1 Lap,0.0
+2019,3,Chinese Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15,+1 Lap,0.0
+2019,3,Chinese Grand Prix,63,George Russell,RUS,Williams,16,+2 Laps,0.0
+2019,3,Chinese Grand Prix,88,Robert Kubica,KUB,Williams,17,+2 Laps,0.0
+2019,3,Chinese Grand Prix,4,Lando Norris,NOR,McLaren,18,Collision,0.0
+2019,3,Chinese Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Collision,0.0
+2019,3,Chinese Grand Prix,27,Nico Hulkenberg,HUL,Renault,R,Power Unit,0.0
+2019,4,Azerbaijan Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,25.0
+2019,4,Azerbaijan Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2019,4,Azerbaijan Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2019,4,Azerbaijan Grand Prix,33,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2019,4,Azerbaijan Grand Prix,16,Charles Leclerc,LEC,Ferrari,5,Finished,11.0
+2019,4,Azerbaijan Grand Prix,11,Sergio Perez,PER,Racing Point,6,Finished,8.0
+2019,4,Azerbaijan Grand Prix,55,Carlos Sainz,SAI,McLaren,7,Finished,6.0
+2019,4,Azerbaijan Grand Prix,4,Lando Norris,NOR,McLaren,8,Finished,4.0
+2019,4,Azerbaijan Grand Prix,18,Lance Stroll,STR,Racing Point,9,Finished,2.0
+2019,4,Azerbaijan Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,10,+1 Lap,1.0
+2019,4,Azerbaijan Grand Prix,23,Alexander Albon,ALB,Toro Rosso,11,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,12,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,27,Nico Hulkenberg,HUL,Renault,14,+1 Lap,0.0
+2019,4,Azerbaijan Grand Prix,63,George Russell,RUS,Williams,15,+2 Laps,0.0
+2019,4,Azerbaijan Grand Prix,88,Robert Kubica,KUB,Williams,16,+2 Laps,0.0
+2019,4,Azerbaijan Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,R,Transmission,0.0
+2019,4,Azerbaijan Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Brakes,0.0
+2019,4,Azerbaijan Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Collision,0.0
+2019,4,Azerbaijan Grand Prix,3,Daniel Ricciardo,RIC,Renault,R,Collision,0.0
+2019,5,Spanish Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,26.0
+2019,5,Spanish Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,5,Spanish Grand Prix,33,Max Verstappen,VER,Red Bull Racing,3,Finished,15.0
+2019,5,Spanish Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2019,5,Spanish Grand Prix,16,Charles Leclerc,LEC,Ferrari,5,Finished,10.0
+2019,5,Spanish Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,6,Finished,8.0
+2019,5,Spanish Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,7,Finished,6.0
+2019,5,Spanish Grand Prix,55,Carlos Sainz,SAI,McLaren,8,Finished,4.0
+2019,5,Spanish Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,9,Finished,2.0
+2019,5,Spanish Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,10,Finished,1.0
+2019,5,Spanish Grand Prix,23,Alexander Albon,ALB,Toro Rosso,11,Finished,0.0
+2019,5,Spanish Grand Prix,3,Daniel Ricciardo,RIC,Renault,12,Finished,0.0
+2019,5,Spanish Grand Prix,27,Nico Hulkenberg,HUL,Renault,13,Finished,0.0
+2019,5,Spanish Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,14,Finished,0.0
+2019,5,Spanish Grand Prix,11,Sergio Perez,PER,Racing Point,15,Finished,0.0
+2019,5,Spanish Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,16,Finished,0.0
+2019,5,Spanish Grand Prix,63,George Russell,RUS,Williams,17,+1 Lap,0.0
+2019,5,Spanish Grand Prix,88,Robert Kubica,KUB,Williams,18,+1 Lap,0.0
+2019,5,Spanish Grand Prix,18,Lance Stroll,STR,Racing Point,R,Collision,0.0
+2019,5,Spanish Grand Prix,4,Lando Norris,NOR,McLaren,R,Collision,0.0
+2019,6,Monaco Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,6,Monaco Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2019,6,Monaco Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2019,6,Monaco Grand Prix,33,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2019,6,Monaco Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,5,Finished,11.0
+2019,6,Monaco Grand Prix,55,Carlos Sainz,SAI,McLaren,6,Finished,8.0
+2019,6,Monaco Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,7,Finished,6.0
+2019,6,Monaco Grand Prix,23,Alexander Albon,ALB,Toro Rosso,8,Finished,4.0
+2019,6,Monaco Grand Prix,3,Daniel Ricciardo,RIC,Renault,9,Finished,2.0
+2019,6,Monaco Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,10,Finished,1.0
+2019,6,Monaco Grand Prix,4,Lando Norris,NOR,McLaren,11,Finished,0.0
+2019,6,Monaco Grand Prix,11,Sergio Perez,PER,Racing Point,12,+1 Lap,0.0
+2019,6,Monaco Grand Prix,27,Nico Hulkenberg,HUL,Renault,13,+1 Lap,0.0
+2019,6,Monaco Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,14,+1 Lap,0.0
+2019,6,Monaco Grand Prix,63,George Russell,RUS,Williams,15,+1 Lap,0.0
+2019,6,Monaco Grand Prix,18,Lance Stroll,STR,Racing Point,16,+1 Lap,0.0
+2019,6,Monaco Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,17,+1 Lap,0.0
+2019,6,Monaco Grand Prix,88,Robert Kubica,KUB,Williams,18,+1 Lap,0.0
+2019,6,Monaco Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,19,+2 Laps,0.0
+2019,6,Monaco Grand Prix,16,Charles Leclerc,LEC,Ferrari,R,Collision,0.0
+2019,7,Canadian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,7,Canadian Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2019,7,Canadian Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2019,7,Canadian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,4,Finished,13.0
+2019,7,Canadian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,5,Finished,10.0
+2019,7,Canadian Grand Prix,3,Daniel Ricciardo,RIC,Renault,6,+1 Lap,8.0
+2019,7,Canadian Grand Prix,27,Nico Hulkenberg,HUL,Renault,7,+1 Lap,6.0
+2019,7,Canadian Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,8,+1 Lap,4.0
+2019,7,Canadian Grand Prix,18,Lance Stroll,STR,Racing Point,9,+1 Lap,2.0
+2019,7,Canadian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,+1 Lap,1.0
+2019,7,Canadian Grand Prix,55,Carlos Sainz,SAI,McLaren,11,+1 Lap,0.0
+2019,7,Canadian Grand Prix,11,Sergio Perez,PER,Racing Point,12,+1 Lap,0.0
+2019,7,Canadian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,13,+1 Lap,0.0
+2019,7,Canadian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,14,+1 Lap,0.0
+2019,7,Canadian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,15,+1 Lap,0.0
+2019,7,Canadian Grand Prix,63,George Russell,RUS,Williams,16,+2 Laps,0.0
+2019,7,Canadian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,17,+2 Laps,0.0
+2019,7,Canadian Grand Prix,88,Robert Kubica,KUB,Williams,18,+3 Laps,0.0
+2019,7,Canadian Grand Prix,23,Alexander Albon,ALB,Toro Rosso,R,Collision damage,0.0
+2019,7,Canadian Grand Prix,4,Lando Norris,NOR,McLaren,R,Suspension,0.0
+2019,8,French Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,8,French Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,8,French Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2019,8,French Grand Prix,33,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2019,8,French Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,11.0
+2019,8,French Grand Prix,55,Carlos Sainz,SAI,McLaren,6,Finished,8.0
+2019,8,French Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,7,+1 Lap,6.0
+2019,8,French Grand Prix,27,Nico Hulkenberg,HUL,Renault,8,+1 Lap,4.0
+2019,8,French Grand Prix,4,Lando Norris,NOR,McLaren,9,+1 Lap,2.0
+2019,8,French Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,10,+1 Lap,1.0
+2019,8,French Grand Prix,3,Daniel Ricciardo,RIC,Renault,11,+1 Lap,0.0
+2019,8,French Grand Prix,11,Sergio Perez,PER,Racing Point,12,+1 Lap,0.0
+2019,8,French Grand Prix,18,Lance Stroll,STR,Racing Point,13,+1 Lap,0.0
+2019,8,French Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,14,+1 Lap,0.0
+2019,8,French Grand Prix,23,Alexander Albon,ALB,Toro Rosso,15,+1 Lap,0.0
+2019,8,French Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,16,+1 Lap,0.0
+2019,8,French Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,17,+1 Lap,0.0
+2019,8,French Grand Prix,88,Robert Kubica,KUB,Williams,18,+2 Laps,0.0
+2019,8,French Grand Prix,63,George Russell,RUS,Williams,19,+2 Laps,0.0
+2019,8,French Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,20,Retired,0.0
+2019,9,Austrian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,1,Finished,26.0
+2019,9,Austrian Grand Prix,16,Charles Leclerc,LEC,Ferrari,2,Finished,18.0
+2019,9,Austrian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2019,9,Austrian Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2019,9,Austrian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,5,Finished,10.0
+2019,9,Austrian Grand Prix,4,Lando Norris,NOR,McLaren,6,+1 Lap,8.0
+2019,9,Austrian Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,7,+1 Lap,6.0
+2019,9,Austrian Grand Prix,55,Carlos Sainz,SAI,McLaren,8,+1 Lap,4.0
+2019,9,Austrian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,9,+1 Lap,2.0
+2019,9,Austrian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,10,+1 Lap,1.0
+2019,9,Austrian Grand Prix,11,Sergio Perez,PER,Racing Point,11,+1 Lap,0.0
+2019,9,Austrian Grand Prix,3,Daniel Ricciardo,RIC,Renault,12,+1 Lap,0.0
+2019,9,Austrian Grand Prix,27,Nico Hulkenberg,HUL,Renault,13,+1 Lap,0.0
+2019,9,Austrian Grand Prix,18,Lance Stroll,STR,Racing Point,14,+1 Lap,0.0
+2019,9,Austrian Grand Prix,23,Alexander Albon,ALB,Toro Rosso,15,+1 Lap,0.0
+2019,9,Austrian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,16,+1 Lap,0.0
+2019,9,Austrian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,17,+1 Lap,0.0
+2019,9,Austrian Grand Prix,63,George Russell,RUS,Williams,18,+2 Laps,0.0
+2019,9,Austrian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,19,+2 Laps,0.0
+2019,9,Austrian Grand Prix,88,Robert Kubica,KUB,Williams,20,+3 Laps,0.0
+2019,10,British Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,26.0
+2019,10,British Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,10,British Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2019,10,British Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,4,Finished,12.0
+2019,10,British Grand Prix,33,Max Verstappen,VER,Red Bull Racing,5,Finished,10.0
+2019,10,British Grand Prix,55,Carlos Sainz,SAI,McLaren,6,Finished,8.0
+2019,10,British Grand Prix,3,Daniel Ricciardo,RIC,Renault,7,Finished,6.0
+2019,10,British Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,8,Finished,4.0
+2019,10,British Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,9,Finished,2.0
+2019,10,British Grand Prix,27,Nico Hulkenberg,HUL,Renault,10,Finished,1.0
+2019,10,British Grand Prix,4,Lando Norris,NOR,McLaren,11,Finished,0.0
+2019,10,British Grand Prix,23,Alexander Albon,ALB,Toro Rosso,12,Finished,0.0
+2019,10,British Grand Prix,18,Lance Stroll,STR,Racing Point,13,Finished,0.0
+2019,10,British Grand Prix,63,George Russell,RUS,Williams,14,+1 Lap,0.0
+2019,10,British Grand Prix,88,Robert Kubica,KUB,Williams,15,+1 Lap,0.0
+2019,10,British Grand Prix,5,Sebastian Vettel,VET,Ferrari,16,+1 Lap,0.0
+2019,10,British Grand Prix,11,Sergio Perez,PER,Racing Point,17,+1 Lap,0.0
+2019,10,British Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,R,Spun off,0.0
+2019,10,British Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Collision,0.0
+2019,10,British Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Collision,0.0
+2019,11,German Grand Prix,33,Max Verstappen,VER,Red Bull Racing,1,Finished,26.0
+2019,11,German Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2019,11,German Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,3,Finished,15.0
+2019,11,German Grand Prix,18,Lance Stroll,STR,Racing Point,4,Finished,12.0
+2019,11,German Grand Prix,55,Carlos Sainz,SAI,McLaren,5,Finished,10.0
+2019,11,German Grand Prix,23,Alexander Albon,ALB,Toro Rosso,6,Finished,8.0
+2019,11,German Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,7,Finished,6.0
+2019,11,German Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,8,Finished,4.0
+2019,11,German Grand Prix,44,Lewis Hamilton,HAM,Mercedes,9,Finished,2.0
+2019,11,German Grand Prix,88,Robert Kubica,KUB,Williams,10,Finished,1.0
+2019,11,German Grand Prix,63,George Russell,RUS,Williams,11,Finished,0.0
+2019,11,German Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,12,Finished,0.0
+2019,11,German Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,13,Finished,0.0
+2019,11,German Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,14,Collision,0.0
+2019,11,German Grand Prix,77,Valtteri Bottas,BOT,Mercedes,R,Accident,0.0
+2019,11,German Grand Prix,27,Nico Hulkenberg,HUL,Renault,R,Accident,0.0
+2019,11,German Grand Prix,16,Charles Leclerc,LEC,Ferrari,R,Accident,0.0
+2019,11,German Grand Prix,4,Lando Norris,NOR,McLaren,R,Power loss,0.0
+2019,11,German Grand Prix,3,Daniel Ricciardo,RIC,Renault,R,Exhaust,0.0
+2019,11,German Grand Prix,11,Sergio Perez,PER,Racing Point,R,Spun off,0.0
+2019,12,Hungarian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,12,Hungarian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,2,Finished,19.0
+2019,12,Hungarian Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2019,12,Hungarian Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,12.0
+2019,12,Hungarian Grand Prix,55,Carlos Sainz,SAI,McLaren,5,+1 Lap,10.0
+2019,12,Hungarian Grand Prix,10,Pierre Gasly,GAS,Red Bull Racing,6,+1 Lap,8.0
+2019,12,Hungarian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,7,+1 Lap,6.0
+2019,12,Hungarian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,8,+1 Lap,4.0
+2019,12,Hungarian Grand Prix,4,Lando Norris,NOR,McLaren,9,+1 Lap,2.0
+2019,12,Hungarian Grand Prix,23,Alexander Albon,ALB,Toro Rosso,10,+1 Lap,1.0
+2019,12,Hungarian Grand Prix,11,Sergio Perez,PER,Racing Point,11,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,27,Nico Hulkenberg,HUL,Renault,12,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,3,Daniel Ricciardo,RIC,Renault,14,+1 Lap,0.0
+2019,12,Hungarian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,15,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,63,George Russell,RUS,Williams,16,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,18,Lance Stroll,STR,Racing Point,17,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,18,+2 Laps,0.0
+2019,12,Hungarian Grand Prix,88,Robert Kubica,KUB,Williams,19,+3 Laps,0.0
+2019,12,Hungarian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Water pressure,0.0
+2019,13,Belgian Grand Prix,16,Charles Leclerc,LEC,Ferrari,1,Finished,25.0
+2019,13,Belgian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2019,13,Belgian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2019,13,Belgian Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,13.0
+2019,13,Belgian Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,5,Finished,10.0
+2019,13,Belgian Grand Prix,11,Sergio Perez,PER,Racing Point,6,Finished,8.0
+2019,13,Belgian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,7,Finished,6.0
+2019,13,Belgian Grand Prix,27,Nico Hulkenberg,HUL,Renault,8,Finished,4.0
+2019,13,Belgian Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,9,Finished,2.0
+2019,13,Belgian Grand Prix,18,Lance Stroll,STR,Racing Point,10,Finished,1.0
+2019,13,Belgian Grand Prix,4,Lando Norris,NOR,McLaren,11,Engine,0.0
+2019,13,Belgian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,12,+1 Lap,0.0
+2019,13,Belgian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2019,13,Belgian Grand Prix,3,Daniel Ricciardo,RIC,Renault,14,+1 Lap,0.0
+2019,13,Belgian Grand Prix,63,George Russell,RUS,Williams,15,+1 Lap,0.0
+2019,13,Belgian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,16,+1 Lap,0.0
+2019,13,Belgian Grand Prix,88,Robert Kubica,KUB,Williams,17,+1 Lap,0.0
+2019,13,Belgian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,18,Accident,0.0
+2019,13,Belgian Grand Prix,55,Carlos Sainz,SAI,McLaren,R,Power loss,0.0
+2019,13,Belgian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,R,Accident,0.0
+2019,14,Italian Grand Prix,16,Charles Leclerc,LEC,Ferrari,1,Finished,25.0
+2019,14,Italian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,14,Italian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,16.0
+2019,14,Italian Grand Prix,3,Daniel Ricciardo,RIC,Renault,4,Finished,12.0
+2019,14,Italian Grand Prix,27,Nico Hulkenberg,HUL,Renault,5,Finished,10.0
+2019,14,Italian Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,6,Finished,8.0
+2019,14,Italian Grand Prix,11,Sergio Perez,PER,Racing Point,7,Finished,6.0
+2019,14,Italian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,8,Finished,4.0
+2019,14,Italian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,9,+1 Lap,2.0
+2019,14,Italian Grand Prix,4,Lando Norris,NOR,McLaren,10,+1 Lap,1.0
+2019,14,Italian Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,11,+1 Lap,0.0
+2019,14,Italian Grand Prix,18,Lance Stroll,STR,Racing Point,12,+1 Lap,0.0
+2019,14,Italian Grand Prix,5,Sebastian Vettel,VET,Ferrari,13,+1 Lap,0.0
+2019,14,Italian Grand Prix,63,George Russell,RUS,Williams,14,+1 Lap,0.0
+2019,14,Italian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,15,+1 Lap,0.0
+2019,14,Italian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,16,+1 Lap,0.0
+2019,14,Italian Grand Prix,88,Robert Kubica,KUB,Williams,17,+2 Laps,0.0
+2019,14,Italian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Hydraulics,0.0
+2019,14,Italian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Engine,0.0
+2019,14,Italian Grand Prix,55,Carlos Sainz,SAI,McLaren,R,Wheel,0.0
+2019,15,Singapore Grand Prix,5,Sebastian Vettel,VET,Ferrari,1,Finished,25.0
+2019,15,Singapore Grand Prix,16,Charles Leclerc,LEC,Ferrari,2,Finished,18.0
+2019,15,Singapore Grand Prix,33,Max Verstappen,VER,Red Bull Racing,3,Finished,15.0
+2019,15,Singapore Grand Prix,44,Lewis Hamilton,HAM,Mercedes,4,Finished,12.0
+2019,15,Singapore Grand Prix,77,Valtteri Bottas,BOT,Mercedes,5,Finished,10.0
+2019,15,Singapore Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,6,Finished,8.0
+2019,15,Singapore Grand Prix,4,Lando Norris,NOR,McLaren,7,Finished,6.0
+2019,15,Singapore Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,8,Finished,4.0
+2019,15,Singapore Grand Prix,27,Nico Hulkenberg,HUL,Renault,9,Finished,2.0
+2019,15,Singapore Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,10,Finished,1.0
+2019,15,Singapore Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,Finished,0.0
+2019,15,Singapore Grand Prix,55,Carlos Sainz,SAI,McLaren,12,Finished,0.0
+2019,15,Singapore Grand Prix,18,Lance Stroll,STR,Racing Point,13,Finished,0.0
+2019,15,Singapore Grand Prix,3,Daniel Ricciardo,RIC,Renault,14,Finished,0.0
+2019,15,Singapore Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,15,Finished,0.0
+2019,15,Singapore Grand Prix,88,Robert Kubica,KUB,Williams,16,Finished,0.0
+2019,15,Singapore Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,17,Finished,0.0
+2019,15,Singapore Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,R,Collision,0.0
+2019,15,Singapore Grand Prix,11,Sergio Perez,PER,Racing Point,R,Engine,0.0
+2019,15,Singapore Grand Prix,63,George Russell,RUS,Williams,R,Collision,0.0
+2019,16,Russian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,26.0
+2019,16,Russian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2019,16,Russian Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2019,16,Russian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,4,Finished,12.0
+2019,16,Russian Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,5,Finished,10.0
+2019,16,Russian Grand Prix,55,Carlos Sainz,SAI,McLaren,6,Finished,8.0
+2019,16,Russian Grand Prix,11,Sergio Perez,PER,Racing Point,7,Finished,6.0
+2019,16,Russian Grand Prix,4,Lando Norris,NOR,McLaren,8,Finished,4.0
+2019,16,Russian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,9,Finished,2.0
+2019,16,Russian Grand Prix,27,Nico Hulkenberg,HUL,Renault,10,Finished,1.0
+2019,16,Russian Grand Prix,18,Lance Stroll,STR,Racing Point,11,Finished,0.0
+2019,16,Russian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,Finished,0.0
+2019,16,Russian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,13,Finished,0.0
+2019,16,Russian Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,14,Finished,0.0
+2019,16,Russian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,15,Finished,0.0
+2019,16,Russian Grand Prix,88,Robert Kubica,KUB,Williams,R,Brakes,0.0
+2019,16,Russian Grand Prix,63,George Russell,RUS,Williams,R,Brakes,0.0
+2019,16,Russian Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Power loss,0.0
+2019,16,Russian Grand Prix,3,Daniel Ricciardo,RIC,Renault,R,Collision,0.0
+2019,16,Russian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Collision,0.0
+2019,17,Japanese Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,25.0
+2019,17,Japanese Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2019,17,Japanese Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,16.0
+2019,17,Japanese Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,4,Finished,12.0
+2019,17,Japanese Grand Prix,55,Carlos Sainz,SAI,McLaren,5,Finished,10.0
+2019,17,Japanese Grand Prix,16,Charles Leclerc,LEC,Ferrari,6,+1 Lap,8.0
+2019,17,Japanese Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,7,+1 Lap,6.0
+2019,17,Japanese Grand Prix,11,Sergio Perez,PER,Racing Point,8,+1 Lap,4.0
+2019,17,Japanese Grand Prix,18,Lance Stroll,STR,Racing Point,9,+1 Lap,2.0
+2019,17,Japanese Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,+1 Lap,1.0
+2019,17,Japanese Grand Prix,4,Lando Norris,NOR,McLaren,11,+1 Lap,0.0
+2019,17,Japanese Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,12,+1 Lap,0.0
+2019,17,Japanese Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2019,17,Japanese Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14,+1 Lap,0.0
+2019,17,Japanese Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,15,+1 Lap,0.0
+2019,17,Japanese Grand Prix,63,George Russell,RUS,Williams,16,+2 Laps,0.0
+2019,17,Japanese Grand Prix,88,Robert Kubica,KUB,Williams,17,+2 Laps,0.0
+2019,17,Japanese Grand Prix,33,Max Verstappen,VER,Red Bull Racing,R,Brakes,0.0
+2019,17,Japanese Grand Prix,3,Daniel Ricciardo,RIC,Renault,D,Disqualified,0.0
+2019,17,Japanese Grand Prix,27,Nico Hulkenberg,HUL,Renault,D,Disqualified,0.0
+2019,18,Mexican Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2019,18,Mexican Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2019,18,Mexican Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2019,18,Mexican Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,13.0
+2019,18,Mexican Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,5,Finished,10.0
+2019,18,Mexican Grand Prix,33,Max Verstappen,VER,Red Bull Racing,6,Finished,8.0
+2019,18,Mexican Grand Prix,11,Sergio Perez,PER,Racing Point,7,Finished,6.0
+2019,18,Mexican Grand Prix,3,Daniel Ricciardo,RIC,Renault,8,Finished,4.0
+2019,18,Mexican Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,9,+1 Lap,2.0
+2019,18,Mexican Grand Prix,27,Nico Hulkenberg,HUL,Renault,10,+1 Lap,1.0
+2019,18,Mexican Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,11,+1 Lap,0.0
+2019,18,Mexican Grand Prix,18,Lance Stroll,STR,Racing Point,12,+1 Lap,0.0
+2019,18,Mexican Grand Prix,55,Carlos Sainz,SAI,McLaren,13,+1 Lap,0.0
+2019,18,Mexican Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14,+1 Lap,0.0
+2019,18,Mexican Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,15,+2 Laps,0.0
+2019,18,Mexican Grand Prix,63,George Russell,RUS,Williams,16,+2 Laps,0.0
+2019,18,Mexican Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,17,+2 Laps,0.0
+2019,18,Mexican Grand Prix,88,Robert Kubica,KUB,Williams,18,+2 Laps,0.0
+2019,18,Mexican Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,R,Overheating,0.0
+2019,18,Mexican Grand Prix,4,Lando Norris,NOR,McLaren,W,Withdrew,0.0
+2019,19,United States Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,25.0
+2019,19,United States Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2019,19,United States Grand Prix,33,Max Verstappen,VER,Red Bull Racing,3,Finished,15.0
+2019,19,United States Grand Prix,16,Charles Leclerc,LEC,Ferrari,4,Finished,13.0
+2019,19,United States Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,5,Finished,10.0
+2019,19,United States Grand Prix,3,Daniel Ricciardo,RIC,Renault,6,Finished,8.0
+2019,19,United States Grand Prix,4,Lando Norris,NOR,McLaren,7,Finished,6.0
+2019,19,United States Grand Prix,55,Carlos Sainz,SAI,McLaren,8,+1 Lap,4.0
+2019,19,United States Grand Prix,27,Nico Hulkenberg,HUL,Renault,9,+1 Lap,2.0
+2019,19,United States Grand Prix,11,Sergio Perez,PER,Racing Point,10,+1 Lap,1.0
+2019,19,United States Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,11,+1 Lap,0.0
+2019,19,United States Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,+1 Lap,0.0
+2019,19,United States Grand Prix,18,Lance Stroll,STR,Racing Point,13,+1 Lap,0.0
+2019,19,United States Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,14,+1 Lap,0.0
+2019,19,United States Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,15,+1 Lap,0.0
+2019,19,United States Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,16,Suspension,0.0
+2019,19,United States Grand Prix,63,George Russell,RUS,Williams,17,+2 Laps,0.0
+2019,19,United States Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,18,Brakes,0.0
+2019,19,United States Grand Prix,88,Robert Kubica,KUB,Williams,R,Oil leak,0.0
+2019,19,United States Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Suspension,0.0
+2019,20,Brazilian Grand Prix,33,Max Verstappen,VER,Red Bull Racing,1,Finished,25.0
+2019,20,Brazilian Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,2,Finished,18.0
+2019,20,Brazilian Grand Prix,55,Carlos Sainz,SAI,McLaren,3,Finished,15.0
+2019,20,Brazilian Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,4,Finished,12.0
+2019,20,Brazilian Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,5,Finished,10.0
+2019,20,Brazilian Grand Prix,3,Daniel Ricciardo,RIC,Renault,6,Finished,8.0
+2019,20,Brazilian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,7,Finished,6.0
+2019,20,Brazilian Grand Prix,4,Lando Norris,NOR,McLaren,8,Finished,4.0
+2019,20,Brazilian Grand Prix,11,Sergio Perez,PER,Racing Point,9,Finished,2.0
+2019,20,Brazilian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,Finished,1.0
+2019,20,Brazilian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,11,Finished,0.0
+2019,20,Brazilian Grand Prix,63,George Russell,RUS,Williams,12,Finished,0.0
+2019,20,Brazilian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,Finished,0.0
+2019,20,Brazilian Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,14,Finished,0.0
+2019,20,Brazilian Grand Prix,27,Nico Hulkenberg,HUL,Renault,15,Finished,0.0
+2019,20,Brazilian Grand Prix,88,Robert Kubica,KUB,Williams,16,+1 Lap,0.0
+2019,20,Brazilian Grand Prix,5,Sebastian Vettel,VET,Ferrari,17,Collision,0.0
+2019,20,Brazilian Grand Prix,16,Charles Leclerc,LEC,Ferrari,18,Collision,0.0
+2019,20,Brazilian Grand Prix,18,Lance Stroll,STR,Racing Point,19,Suspension,0.0
+2019,20,Brazilian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,R,Power Unit,0.0
+2019,21,Abu Dhabi Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,26.0
+2019,21,Abu Dhabi Grand Prix,33,Max Verstappen,VER,Red Bull Racing,2,Finished,18.0
+2019,21,Abu Dhabi Grand Prix,16,Charles Leclerc,LEC,Ferrari,3,Finished,15.0
+2019,21,Abu Dhabi Grand Prix,77,Valtteri Bottas,BOT,Mercedes,4,Finished,12.0
+2019,21,Abu Dhabi Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,10.0
+2019,21,Abu Dhabi Grand Prix,23,Alexander Albon,ALB,Red Bull Racing,6,Finished,8.0
+2019,21,Abu Dhabi Grand Prix,11,Sergio Perez,PER,Racing Point,7,+1 Lap,6.0
+2019,21,Abu Dhabi Grand Prix,4,Lando Norris,NOR,McLaren,8,+1 Lap,4.0
+2019,21,Abu Dhabi Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,9,+1 Lap,2.0
+2019,21,Abu Dhabi Grand Prix,55,Carlos Sainz,SAI,McLaren,10,+1 Lap,1.0
+2019,21,Abu Dhabi Grand Prix,3,Daniel Ricciardo,RIC,Renault,11,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,27,Nico Hulkenberg,HUL,Renault,12,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,7,Kimi Räikkönen,RAI,Alfa Romeo Racing,13,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,14,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,15,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing,16,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,63,George Russell,RUS,Williams,17,+1 Lap,0.0
+2019,21,Abu Dhabi Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,18,+2 Laps,0.0
+2019,21,Abu Dhabi Grand Prix,88,Robert Kubica,KUB,Williams,19,+2 Laps,0.0
+2019,21,Abu Dhabi Grand Prix,18,Lance Stroll,STR,Racing Point,R,Brakes,0.0
