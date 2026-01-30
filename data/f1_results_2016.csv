@@ -1,0 +1,463 @@
+season,round,race_name,driver_number,driver_name,abbreviation,team,final_position,status,points_scored
+2016,1,Australian Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,1,Australian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2016,1,Australian Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2016,1,Australian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2016,1,Australian Grand Prix,19,Felipe Massa,MAS,Williams,5,Finished,10.0
+2016,1,Australian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,6,Finished,8.0
+2016,1,Australian Grand Prix,27,Nico Hülkenberg,HUL,Force India,7,Finished,6.0
+2016,1,Australian Grand Prix,77,Valtteri Bottas,BOT,Williams,8,Finished,4.0
+2016,1,Australian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,9,Finished,2.0
+2016,1,Australian Grand Prix,33,Max Verstappen,VER,Toro Rosso,10,Finished,1.0
+2016,1,Australian Grand Prix,30,Jolyon Palmer,PAL,Renault,11,Finished,0.0
+2016,1,Australian Grand Prix,20,Kevin Magnussen,MAG,Renault,12,Finished,0.0
+2016,1,Australian Grand Prix,11,Sergio Pérez,PER,Force India,13,Finished,0.0
+2016,1,Australian Grand Prix,22,Jenson Button,BUT,McLaren,14,+1 Lap,0.0
+2016,1,Australian Grand Prix,12,Felipe Nasr,NAS,Sauber,15,+1 Lap,0.0
+2016,1,Australian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,16,+1 Lap,0.0
+2016,1,Australian Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Engine,0.0
+2016,1,Australian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Engine,0.0
+2016,1,Australian Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,R,Mechanical,0.0
+2016,1,Australian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,R,Collision,0.0
+2016,1,Australian Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Collision,0.0
+2016,1,Australian Grand Prix,26,Daniil Kvyat,KVY,Red Bull,W,Retired,0.0
+2016,2,Bahrain Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,2,Bahrain Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,2,Finished,18.0
+2016,2,Bahrain Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,15.0
+2016,2,Bahrain Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2016,2,Bahrain Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,5,Finished,10.0
+2016,2,Bahrain Grand Prix,33,Max Verstappen,VER,Toro Rosso,6,Finished,8.0
+2016,2,Bahrain Grand Prix,26,Daniil Kvyat,KVY,Red Bull,7,+1 Lap,6.0
+2016,2,Bahrain Grand Prix,19,Felipe Massa,MAS,Williams,8,+1 Lap,4.0
+2016,2,Bahrain Grand Prix,77,Valtteri Bottas,BOT,Williams,9,+1 Lap,2.0
+2016,2,Bahrain Grand Prix,47,Stoffel Vandoorne,VAN,McLaren,10,+1 Lap,1.0
+2016,2,Bahrain Grand Prix,20,Kevin Magnussen,MAG,Renault,11,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,9,Marcus Ericsson,ERI,Sauber,12,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,13,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,12,Felipe Nasr,NAS,Sauber,14,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,27,Nico Hülkenberg,HUL,Force India,15,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,11,Sergio Pérez,PER,Force India,16,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,17,+1 Lap,0.0
+2016,2,Bahrain Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Retired,0.0
+2016,2,Bahrain Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,R,Retired,0.0
+2016,2,Bahrain Grand Prix,22,Jenson Button,BUT,McLaren,R,Power Unit,0.0
+2016,2,Bahrain Grand Prix,5,Sebastian Vettel,VET,Ferrari,W,Engine,0.0
+2016,2,Bahrain Grand Prix,30,Jolyon Palmer,PAL,Renault,W,Hydraulics,0.0
+2016,3,Chinese Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,3,Chinese Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2016,3,Chinese Grand Prix,26,Daniil Kvyat,KVY,Red Bull,3,Finished,15.0
+2016,3,Chinese Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2016,3,Chinese Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2016,3,Chinese Grand Prix,19,Felipe Massa,MAS,Williams,6,Finished,8.0
+2016,3,Chinese Grand Prix,44,Lewis Hamilton,HAM,Mercedes,7,Finished,6.0
+2016,3,Chinese Grand Prix,33,Max Verstappen,VER,Toro Rosso,8,Finished,4.0
+2016,3,Chinese Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,9,Finished,2.0
+2016,3,Chinese Grand Prix,77,Valtteri Bottas,BOT,Williams,10,Finished,1.0
+2016,3,Chinese Grand Prix,11,Sergio Pérez,PER,Force India,11,Finished,0.0
+2016,3,Chinese Grand Prix,14,Fernando Alonso,ALO,McLaren,12,Finished,0.0
+2016,3,Chinese Grand Prix,22,Jenson Button,BUT,McLaren,13,Finished,0.0
+2016,3,Chinese Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,14,+1 Lap,0.0
+2016,3,Chinese Grand Prix,27,Nico Hülkenberg,HUL,Force India,15,+1 Lap,0.0
+2016,3,Chinese Grand Prix,9,Marcus Ericsson,ERI,Sauber,16,+1 Lap,0.0
+2016,3,Chinese Grand Prix,20,Kevin Magnussen,MAG,Renault,17,+1 Lap,0.0
+2016,3,Chinese Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,18,+1 Lap,0.0
+2016,3,Chinese Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,19,+1 Lap,0.0
+2016,3,Chinese Grand Prix,12,Felipe Nasr,NAS,Sauber,20,+1 Lap,0.0
+2016,3,Chinese Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,21,+1 Lap,0.0
+2016,3,Chinese Grand Prix,30,Jolyon Palmer,PAL,Renault,22,+1 Lap,0.0
+2016,4,Russian Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,4,Russian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2016,4,Russian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2016,4,Russian Grand Prix,77,Valtteri Bottas,BOT,Williams,4,Finished,12.0
+2016,4,Russian Grand Prix,19,Felipe Massa,MAS,Williams,5,Finished,10.0
+2016,4,Russian Grand Prix,14,Fernando Alonso,ALO,McLaren,6,+1 Lap,8.0
+2016,4,Russian Grand Prix,20,Kevin Magnussen,MAG,Renault,7,+1 Lap,6.0
+2016,4,Russian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,8,+1 Lap,4.0
+2016,4,Russian Grand Prix,11,Sergio Pérez,PER,Force India,9,+1 Lap,2.0
+2016,4,Russian Grand Prix,22,Jenson Button,BUT,McLaren,10,+1 Lap,1.0
+2016,4,Russian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,11,+1 Lap,0.0
+2016,4,Russian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,12,+1 Lap,0.0
+2016,4,Russian Grand Prix,30,Jolyon Palmer,PAL,Renault,13,+1 Lap,0.0
+2016,4,Russian Grand Prix,9,Marcus Ericsson,ERI,Sauber,14,+1 Lap,0.0
+2016,4,Russian Grand Prix,26,Daniil Kvyat,KVY,Red Bull,15,+1 Lap,0.0
+2016,4,Russian Grand Prix,12,Felipe Nasr,NAS,Sauber,16,+1 Lap,0.0
+2016,4,Russian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,17,+1 Lap,0.0
+2016,4,Russian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,18,+2 Laps,0.0
+2016,4,Russian Grand Prix,33,Max Verstappen,VER,Toro Rosso,R,Power Unit,0.0
+2016,4,Russian Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Collision,0.0
+2016,4,Russian Grand Prix,27,Nico Hülkenberg,HUL,Force India,R,Collision,0.0
+2016,4,Russian Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,R,Collision,0.0
+2016,5,Spanish Grand Prix,33,Max Verstappen,VER,Red Bull,1,Finished,25.0
+2016,5,Spanish Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,2,Finished,18.0
+2016,5,Spanish Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2016,5,Spanish Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2016,5,Spanish Grand Prix,77,Valtteri Bottas,BOT,Williams,5,Finished,10.0
+2016,5,Spanish Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,6,Finished,8.0
+2016,5,Spanish Grand Prix,11,Sergio Pérez,PER,Force India,7,Finished,6.0
+2016,5,Spanish Grand Prix,19,Felipe Massa,MAS,Williams,8,Finished,4.0
+2016,5,Spanish Grand Prix,22,Jenson Button,BUT,McLaren,9,+1 Lap,2.0
+2016,5,Spanish Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,+1 Lap,1.0
+2016,5,Spanish Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,11,+1 Lap,0.0
+2016,5,Spanish Grand Prix,9,Marcus Ericsson,ERI,Sauber,12,+1 Lap,0.0
+2016,5,Spanish Grand Prix,30,Jolyon Palmer,PAL,Renault,13,+1 Lap,0.0
+2016,5,Spanish Grand Prix,20,Kevin Magnussen,MAG,Renault,14,+1 Lap,0.0
+2016,5,Spanish Grand Prix,12,Felipe Nasr,NAS,Sauber,15,+1 Lap,0.0
+2016,5,Spanish Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,16,+1 Lap,0.0
+2016,5,Spanish Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,17,+1 Lap,0.0
+2016,5,Spanish Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Engine,0.0
+2016,5,Spanish Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Engine,0.0
+2016,5,Spanish Grand Prix,27,Nico Hülkenberg,HUL,Force India,R,Engine,0.0
+2016,5,Spanish Grand Prix,44,Lewis Hamilton,HAM,Mercedes,R,Collision,0.0
+2016,5,Spanish Grand Prix,6,Nico Rosberg,ROS,Mercedes,R,Collision,0.0
+2016,6,Monaco Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,6,Monaco Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,2,Finished,18.0
+2016,6,Monaco Grand Prix,11,Sergio Pérez,PER,Force India,3,Finished,15.0
+2016,6,Monaco Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2016,6,Monaco Grand Prix,14,Fernando Alonso,ALO,McLaren,5,Finished,10.0
+2016,6,Monaco Grand Prix,27,Nico Hülkenberg,HUL,Force India,6,Finished,8.0
+2016,6,Monaco Grand Prix,6,Nico Rosberg,ROS,Mercedes,7,Finished,6.0
+2016,6,Monaco Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,8,+1 Lap,4.0
+2016,6,Monaco Grand Prix,22,Jenson Button,BUT,McLaren,9,+1 Lap,2.0
+2016,6,Monaco Grand Prix,19,Felipe Massa,MAS,Williams,10,+1 Lap,1.0
+2016,6,Monaco Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,11,+1 Lap,0.0
+2016,6,Monaco Grand Prix,77,Valtteri Bottas,BOT,Williams,12,+1 Lap,0.0
+2016,6,Monaco Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+2 Laps,0.0
+2016,6,Monaco Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,14,+2 Laps,0.0
+2016,6,Monaco Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,15,+4 Laps,0.0
+2016,6,Monaco Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Collision,0.0
+2016,6,Monaco Grand Prix,12,Felipe Nasr,NAS,Sauber,R,Retired,0.0
+2016,6,Monaco Grand Prix,33,Max Verstappen,VER,Red Bull,R,Accident,0.0
+2016,6,Monaco Grand Prix,20,Kevin Magnussen,MAG,Renault,R,Retired,0.0
+2016,6,Monaco Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Accident,0.0
+2016,6,Monaco Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Accident,0.0
+2016,6,Monaco Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Accident,0.0
+2016,7,Canadian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,7,Canadian Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2016,7,Canadian Grand Prix,77,Valtteri Bottas,BOT,Williams,3,Finished,15.0
+2016,7,Canadian Grand Prix,33,Max Verstappen,VER,Red Bull,4,Finished,12.0
+2016,7,Canadian Grand Prix,6,Nico Rosberg,ROS,Mercedes,5,Finished,10.0
+2016,7,Canadian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,6,Finished,8.0
+2016,7,Canadian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,7,Finished,6.0
+2016,7,Canadian Grand Prix,27,Nico Hülkenberg,HUL,Force India,8,+1 Lap,4.0
+2016,7,Canadian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,9,+1 Lap,2.0
+2016,7,Canadian Grand Prix,11,Sergio Pérez,PER,Force India,10,+1 Lap,1.0
+2016,7,Canadian Grand Prix,14,Fernando Alonso,ALO,McLaren,11,+1 Lap,0.0
+2016,7,Canadian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,+1 Lap,0.0
+2016,7,Canadian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,13,+2 Laps,0.0
+2016,7,Canadian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,14,+2 Laps,0.0
+2016,7,Canadian Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+2 Laps,0.0
+2016,7,Canadian Grand Prix,20,Kevin Magnussen,MAG,Renault,16,+2 Laps,0.0
+2016,7,Canadian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,17,+2 Laps,0.0
+2016,7,Canadian Grand Prix,12,Felipe Nasr,NAS,Sauber,18,+2 Laps,0.0
+2016,7,Canadian Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,19,+2 Laps,0.0
+2016,7,Canadian Grand Prix,19,Felipe Massa,MAS,Williams,R,Retired,0.0
+2016,7,Canadian Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Retired,0.0
+2016,7,Canadian Grand Prix,22,Jenson Button,BUT,McLaren,R,Power Unit,0.0
+2016,8,European Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,8,European Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2016,8,European Grand Prix,11,Sergio Pérez,PER,Force India,3,Finished,15.0
+2016,8,European Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2016,8,European Grand Prix,44,Lewis Hamilton,HAM,Mercedes,5,Finished,10.0
+2016,8,European Grand Prix,77,Valtteri Bottas,BOT,Williams,6,Finished,8.0
+2016,8,European Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,7,Finished,6.0
+2016,8,European Grand Prix,33,Max Verstappen,VER,Red Bull,8,Finished,4.0
+2016,8,European Grand Prix,27,Nico Hülkenberg,HUL,Force India,9,Finished,2.0
+2016,8,European Grand Prix,19,Felipe Massa,MAS,Williams,10,Finished,1.0
+2016,8,European Grand Prix,22,Jenson Button,BUT,McLaren,11,Finished,0.0
+2016,8,European Grand Prix,12,Felipe Nasr,NAS,Sauber,12,+1 Lap,0.0
+2016,8,European Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2016,8,European Grand Prix,20,Kevin Magnussen,MAG,Renault,14,+1 Lap,0.0
+2016,8,European Grand Prix,30,Jolyon Palmer,PAL,Renault,15,+1 Lap,0.0
+2016,8,European Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,16,+1 Lap,0.0
+2016,8,European Grand Prix,9,Marcus Ericsson,ERI,Sauber,17,+1 Lap,0.0
+2016,8,European Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,18,+2 Laps,0.0
+2016,8,European Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Gearbox,0.0
+2016,8,European Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,R,Brakes,0.0
+2016,8,European Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Suspension,0.0
+2016,8,European Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Suspension,0.0
+2016,9,Austrian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,9,Austrian Grand Prix,33,Max Verstappen,VER,Red Bull,2,Finished,18.0
+2016,9,Austrian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2016,9,Austrian Grand Prix,6,Nico Rosberg,ROS,Mercedes,4,Finished,12.0
+2016,9,Austrian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,5,Finished,10.0
+2016,9,Austrian Grand Prix,22,Jenson Button,BUT,McLaren,6,Finished,8.0
+2016,9,Austrian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,7,Finished,6.0
+2016,9,Austrian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,8,Finished,4.0
+2016,9,Austrian Grand Prix,77,Valtteri Bottas,BOT,Williams,9,+1 Lap,2.0
+2016,9,Austrian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,10,+1 Lap,1.0
+2016,9,Austrian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,11,+1 Lap,0.0
+2016,9,Austrian Grand Prix,30,Jolyon Palmer,PAL,Renault,12,+1 Lap,0.0
+2016,9,Austrian Grand Prix,12,Felipe Nasr,NAS,Sauber,13,+1 Lap,0.0
+2016,9,Austrian Grand Prix,20,Kevin Magnussen,MAG,Renault,14,+1 Lap,0.0
+2016,9,Austrian Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+1 Lap,0.0
+2016,9,Austrian Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,16,+1 Lap,0.0
+2016,9,Austrian Grand Prix,11,Sergio Pérez,PER,Force India,17,Brakes,0.0
+2016,9,Austrian Grand Prix,14,Fernando Alonso,ALO,McLaren,18,Battery,0.0
+2016,9,Austrian Grand Prix,27,Nico Hülkenberg,HUL,Force India,19,Brakes,0.0
+2016,9,Austrian Grand Prix,19,Felipe Massa,MAS,Williams,20,Brakes,0.0
+2016,9,Austrian Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Tyre,0.0
+2016,9,Austrian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Retired,0.0
+2016,10,British Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,10,British Grand Prix,33,Max Verstappen,VER,Red Bull,2,Finished,18.0
+2016,10,British Grand Prix,6,Nico Rosberg,ROS,Mercedes,3,Finished,15.0
+2016,10,British Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2016,10,British Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2016,10,British Grand Prix,11,Sergio Pérez,PER,Force India,6,Finished,8.0
+2016,10,British Grand Prix,27,Nico Hülkenberg,HUL,Force India,7,Finished,6.0
+2016,10,British Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,8,Finished,4.0
+2016,10,British Grand Prix,5,Sebastian Vettel,VET,Ferrari,9,Finished,2.0
+2016,10,British Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,Finished,1.0
+2016,10,British Grand Prix,19,Felipe Massa,MAS,Williams,11,+1 Lap,0.0
+2016,10,British Grand Prix,22,Jenson Button,BUT,McLaren,12,+1 Lap,0.0
+2016,10,British Grand Prix,14,Fernando Alonso,ALO,McLaren,13,+1 Lap,0.0
+2016,10,British Grand Prix,77,Valtteri Bottas,BOT,Williams,14,+1 Lap,0.0
+2016,10,British Grand Prix,12,Felipe Nasr,NAS,Sauber,15,+1 Lap,0.0
+2016,10,British Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,16,+1 Lap,0.0
+2016,10,British Grand Prix,20,Kevin Magnussen,MAG,Renault,17,Gearbox,0.0
+2016,10,British Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Gearbox,0.0
+2016,10,British Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,R,Spun off,0.0
+2016,10,British Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Retired,0.0
+2016,10,British Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Power Unit,0.0
+2016,10,British Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,R,Spun off,0.0
+2016,11,Hungarian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,11,Hungarian Grand Prix,6,Nico Rosberg,ROS,Mercedes,2,Finished,18.0
+2016,11,Hungarian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2016,11,Hungarian Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2016,11,Hungarian Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2016,11,Hungarian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,6,Finished,8.0
+2016,11,Hungarian Grand Prix,14,Fernando Alonso,ALO,McLaren,7,+1 Lap,6.0
+2016,11,Hungarian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,8,+1 Lap,4.0
+2016,11,Hungarian Grand Prix,77,Valtteri Bottas,BOT,Williams,9,+1 Lap,2.0
+2016,11,Hungarian Grand Prix,27,Nico Hülkenberg,HUL,Force India,10,+1 Lap,1.0
+2016,11,Hungarian Grand Prix,11,Sergio Pérez,PER,Force India,11,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,30,Jolyon Palmer,PAL,Renault,12,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,13,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,14,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,20,Kevin Magnussen,MAG,Renault,15,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,16,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,12,Felipe Nasr,NAS,Sauber,17,+1 Lap,0.0
+2016,11,Hungarian Grand Prix,19,Felipe Massa,MAS,Williams,18,+2 Laps,0.0
+2016,11,Hungarian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,19,+2 Laps,0.0
+2016,11,Hungarian Grand Prix,9,Marcus Ericsson,ERI,Sauber,20,+2 Laps,0.0
+2016,11,Hungarian Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,21,+2 Laps,0.0
+2016,11,Hungarian Grand Prix,22,Jenson Button,BUT,McLaren,R,Oil leak,0.0
+2016,12,German Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,12,German Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,2,Finished,18.0
+2016,12,German Grand Prix,33,Max Verstappen,VER,Red Bull,3,Finished,15.0
+2016,12,German Grand Prix,6,Nico Rosberg,ROS,Mercedes,4,Finished,12.0
+2016,12,German Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,10.0
+2016,12,German Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,6,Finished,8.0
+2016,12,German Grand Prix,27,Nico Hülkenberg,HUL,Force India,7,Finished,6.0
+2016,12,German Grand Prix,22,Jenson Button,BUT,McLaren,8,+1 Lap,4.0
+2016,12,German Grand Prix,77,Valtteri Bottas,BOT,Williams,9,+1 Lap,2.0
+2016,12,German Grand Prix,11,Sergio Pérez,PER,Force India,10,+1 Lap,1.0
+2016,12,German Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,11,+1 Lap,0.0
+2016,12,German Grand Prix,14,Fernando Alonso,ALO,McLaren,12,+1 Lap,0.0
+2016,12,German Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2016,12,German Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,14,+1 Lap,0.0
+2016,12,German Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,15,+1 Lap,0.0
+2016,12,German Grand Prix,20,Kevin Magnussen,MAG,Renault,16,+1 Lap,0.0
+2016,12,German Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,17,+2 Laps,0.0
+2016,12,German Grand Prix,9,Marcus Ericsson,ERI,Sauber,18,+2 Laps,0.0
+2016,12,German Grand Prix,30,Jolyon Palmer,PAL,Renault,19,+2 Laps,0.0
+2016,12,German Grand Prix,88,Rio Haryanto,HAR,Manor Marussia,20,+2 Laps,0.0
+2016,12,German Grand Prix,12,Felipe Nasr,NAS,Sauber,R,Power Unit,0.0
+2016,12,German Grand Prix,19,Felipe Massa,MAS,Williams,R,Suspension,0.0
+2016,13,Belgian Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,13,Belgian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,2,Finished,18.0
+2016,13,Belgian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,15.0
+2016,13,Belgian Grand Prix,27,Nico Hülkenberg,HUL,Force India,4,Finished,12.0
+2016,13,Belgian Grand Prix,11,Sergio Pérez,PER,Force India,5,Finished,10.0
+2016,13,Belgian Grand Prix,5,Sebastian Vettel,VET,Ferrari,6,Finished,8.0
+2016,13,Belgian Grand Prix,14,Fernando Alonso,ALO,McLaren,7,Finished,6.0
+2016,13,Belgian Grand Prix,77,Valtteri Bottas,BOT,Williams,8,Finished,4.0
+2016,13,Belgian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,9,Finished,2.0
+2016,13,Belgian Grand Prix,19,Felipe Massa,MAS,Williams,10,Finished,1.0
+2016,13,Belgian Grand Prix,33,Max Verstappen,VER,Red Bull,11,Finished,0.0
+2016,13,Belgian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,12,Finished,0.0
+2016,13,Belgian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,Finished,0.0
+2016,13,Belgian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,14,Finished,0.0
+2016,13,Belgian Grand Prix,30,Jolyon Palmer,PAL,Renault,15,Finished,0.0
+2016,13,Belgian Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,16,+1 Lap,0.0
+2016,13,Belgian Grand Prix,12,Felipe Nasr,NAS,Sauber,17,+1 Lap,0.0
+2016,13,Belgian Grand Prix,20,Kevin Magnussen,MAG,Renault,R,Accident,0.0
+2016,13,Belgian Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Gearbox,0.0
+2016,13,Belgian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Puncture,0.0
+2016,13,Belgian Grand Prix,22,Jenson Button,BUT,McLaren,R,Collision damage,0.0
+2016,13,Belgian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,R,Collision damage,0.0
+2016,14,Italian Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,14,Italian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2016,14,Italian Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2016,14,Italian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2016,14,Italian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,5,Finished,10.0
+2016,14,Italian Grand Prix,77,Valtteri Bottas,BOT,Williams,6,Finished,8.0
+2016,14,Italian Grand Prix,33,Max Verstappen,VER,Red Bull,7,Finished,6.0
+2016,14,Italian Grand Prix,11,Sergio Pérez,PER,Force India,8,Finished,4.0
+2016,14,Italian Grand Prix,19,Felipe Massa,MAS,Williams,9,Finished,2.0
+2016,14,Italian Grand Prix,27,Nico Hülkenberg,HUL,Force India,10,Finished,1.0
+2016,14,Italian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,+1 Lap,0.0
+2016,14,Italian Grand Prix,22,Jenson Button,BUT,McLaren,12,+1 Lap,0.0
+2016,14,Italian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,13,+1 Lap,0.0
+2016,14,Italian Grand Prix,14,Fernando Alonso,ALO,McLaren,14,+1 Lap,0.0
+2016,14,Italian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,15,+1 Lap,0.0
+2016,14,Italian Grand Prix,9,Marcus Ericsson,ERI,Sauber,16,+1 Lap,0.0
+2016,14,Italian Grand Prix,20,Kevin Magnussen,MAG,Renault,17,+1 Lap,0.0
+2016,14,Italian Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,18,+2 Laps,0.0
+2016,14,Italian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Battery,0.0
+2016,14,Italian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,R,Oil leak,0.0
+2016,14,Italian Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Collision damage,0.0
+2016,14,Italian Grand Prix,12,Felipe Nasr,NAS,Sauber,R,Collision damage,0.0
+2016,15,Singapore Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,15,Singapore Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,2,Finished,18.0
+2016,15,Singapore Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,15.0
+2016,15,Singapore Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2016,15,Singapore Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,10.0
+2016,15,Singapore Grand Prix,33,Max Verstappen,VER,Red Bull,6,Finished,8.0
+2016,15,Singapore Grand Prix,14,Fernando Alonso,ALO,McLaren,7,Finished,6.0
+2016,15,Singapore Grand Prix,11,Sergio Pérez,PER,Force India,8,Finished,4.0
+2016,15,Singapore Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,9,Finished,2.0
+2016,15,Singapore Grand Prix,20,Kevin Magnussen,MAG,Renault,10,Finished,1.0
+2016,15,Singapore Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,11,+1 Lap,0.0
+2016,15,Singapore Grand Prix,19,Felipe Massa,MAS,Williams,12,+1 Lap,0.0
+2016,15,Singapore Grand Prix,12,Felipe Nasr,NAS,Sauber,13,+1 Lap,0.0
+2016,15,Singapore Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,14,+1 Lap,0.0
+2016,15,Singapore Grand Prix,30,Jolyon Palmer,PAL,Renault,15,+1 Lap,0.0
+2016,15,Singapore Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,16,+1 Lap,0.0
+2016,15,Singapore Grand Prix,9,Marcus Ericsson,ERI,Sauber,17,+1 Lap,0.0
+2016,15,Singapore Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,18,+2 Laps,0.0
+2016,15,Singapore Grand Prix,22,Jenson Button,BUT,McLaren,R,Brakes,0.0
+2016,15,Singapore Grand Prix,77,Valtteri Bottas,BOT,Williams,R,Overheating,0.0
+2016,15,Singapore Grand Prix,27,Nico Hülkenberg,HUL,Force India,R,Collision,0.0
+2016,15,Singapore Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,W,Withdrew,0.0
+2016,16,Malaysian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,1,Finished,25.0
+2016,16,Malaysian Grand Prix,33,Max Verstappen,VER,Red Bull,2,Finished,18.0
+2016,16,Malaysian Grand Prix,6,Nico Rosberg,ROS,Mercedes,3,Finished,15.0
+2016,16,Malaysian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2016,16,Malaysian Grand Prix,77,Valtteri Bottas,BOT,Williams,5,Finished,10.0
+2016,16,Malaysian Grand Prix,11,Sergio Pérez,PER,Force India,6,Finished,8.0
+2016,16,Malaysian Grand Prix,14,Fernando Alonso,ALO,McLaren,7,Finished,6.0
+2016,16,Malaysian Grand Prix,27,Nico Hülkenberg,HUL,Force India,8,Finished,4.0
+2016,16,Malaysian Grand Prix,22,Jenson Button,BUT,McLaren,9,Finished,2.0
+2016,16,Malaysian Grand Prix,30,Jolyon Palmer,PAL,Renault,10,Finished,1.0
+2016,16,Malaysian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,11,Finished,0.0
+2016,16,Malaysian Grand Prix,9,Marcus Ericsson,ERI,Sauber,12,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,19,Felipe Massa,MAS,Williams,13,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,14,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,15,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,16,+1 Lap,0.0
+2016,16,Malaysian Grand Prix,12,Felipe Nasr,NAS,Sauber,R,Brakes,0.0
+2016,16,Malaysian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,R,Engine,0.0
+2016,16,Malaysian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,R,Wheel nut,0.0
+2016,16,Malaysian Grand Prix,20,Kevin Magnussen,MAG,Renault,R,Power loss,0.0
+2016,16,Malaysian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Brakes,0.0
+2016,16,Malaysian Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Collision,0.0
+2016,17,Japanese Grand Prix,6,Nico Rosberg,ROS,Mercedes,1,Finished,25.0
+2016,17,Japanese Grand Prix,33,Max Verstappen,VER,Red Bull,2,Finished,18.0
+2016,17,Japanese Grand Prix,44,Lewis Hamilton,HAM,Mercedes,3,Finished,15.0
+2016,17,Japanese Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2016,17,Japanese Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2016,17,Japanese Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,6,Finished,8.0
+2016,17,Japanese Grand Prix,11,Sergio Pérez,PER,Force India,7,Finished,6.0
+2016,17,Japanese Grand Prix,27,Nico Hülkenberg,HUL,Force India,8,Finished,4.0
+2016,17,Japanese Grand Prix,19,Felipe Massa,MAS,Williams,9,Finished,2.0
+2016,17,Japanese Grand Prix,77,Valtteri Bottas,BOT,Williams,10,Finished,1.0
+2016,17,Japanese Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,Finished,0.0
+2016,17,Japanese Grand Prix,30,Jolyon Palmer,PAL,Renault,12,+1 Lap,0.0
+2016,17,Japanese Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,13,+1 Lap,0.0
+2016,17,Japanese Grand Prix,20,Kevin Magnussen,MAG,Renault,14,+1 Lap,0.0
+2016,17,Japanese Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+1 Lap,0.0
+2016,17,Japanese Grand Prix,14,Fernando Alonso,ALO,McLaren,16,+1 Lap,0.0
+2016,17,Japanese Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,17,+1 Lap,0.0
+2016,17,Japanese Grand Prix,22,Jenson Button,BUT,McLaren,18,+1 Lap,0.0
+2016,17,Japanese Grand Prix,12,Felipe Nasr,NAS,Sauber,19,+1 Lap,0.0
+2016,17,Japanese Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,20,+1 Lap,0.0
+2016,17,Japanese Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,21,+1 Lap,0.0
+2016,17,Japanese Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,22,+1 Lap,0.0
+2016,18,United States Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,18,United States Grand Prix,6,Nico Rosberg,ROS,Mercedes,2,Finished,18.0
+2016,18,United States Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2016,18,United States Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2016,18,United States Grand Prix,14,Fernando Alonso,ALO,McLaren,5,Finished,10.0
+2016,18,United States Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,6,Finished,8.0
+2016,18,United States Grand Prix,19,Felipe Massa,MAS,Williams,7,+1 Lap,6.0
+2016,18,United States Grand Prix,11,Sergio Pérez,PER,Force India,8,+1 Lap,4.0
+2016,18,United States Grand Prix,22,Jenson Button,BUT,McLaren,9,+1 Lap,2.0
+2016,18,United States Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,10,+1 Lap,1.0
+2016,18,United States Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,11,+1 Lap,0.0
+2016,18,United States Grand Prix,20,Kevin Magnussen,MAG,Renault,12,+1 Lap,0.0
+2016,18,United States Grand Prix,30,Jolyon Palmer,PAL,Renault,13,+1 Lap,0.0
+2016,18,United States Grand Prix,9,Marcus Ericsson,ERI,Sauber,14,+1 Lap,0.0
+2016,18,United States Grand Prix,12,Felipe Nasr,NAS,Sauber,15,+1 Lap,0.0
+2016,18,United States Grand Prix,77,Valtteri Bottas,BOT,Williams,16,+1 Lap,0.0
+2016,18,United States Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,17,+1 Lap,0.0
+2016,18,United States Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,18,+2 Laps,0.0
+2016,18,United States Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Wheel,0.0
+2016,18,United States Grand Prix,33,Max Verstappen,VER,Red Bull,R,Gearbox,0.0
+2016,18,United States Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,R,Brakes,0.0
+2016,18,United States Grand Prix,27,Nico Hülkenberg,HUL,Force India,R,Collision,0.0
+2016,19,Mexican Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,19,Mexican Grand Prix,6,Nico Rosberg,ROS,Mercedes,2,Finished,18.0
+2016,19,Mexican Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2016,19,Mexican Grand Prix,33,Max Verstappen,VER,Red Bull,4,Finished,12.0
+2016,19,Mexican Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,10.0
+2016,19,Mexican Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,6,Finished,8.0
+2016,19,Mexican Grand Prix,27,Nico Hülkenberg,HUL,Force India,7,Finished,6.0
+2016,19,Mexican Grand Prix,77,Valtteri Bottas,BOT,Williams,8,Finished,4.0
+2016,19,Mexican Grand Prix,19,Felipe Massa,MAS,Williams,9,Finished,2.0
+2016,19,Mexican Grand Prix,11,Sergio Pérez,PER,Force India,10,Finished,1.0
+2016,19,Mexican Grand Prix,9,Marcus Ericsson,ERI,Sauber,11,+1 Lap,0.0
+2016,19,Mexican Grand Prix,22,Jenson Button,BUT,McLaren,12,+1 Lap,0.0
+2016,19,Mexican Grand Prix,14,Fernando Alonso,ALO,McLaren,13,+1 Lap,0.0
+2016,19,Mexican Grand Prix,30,Jolyon Palmer,PAL,Renault,14,+1 Lap,0.0
+2016,19,Mexican Grand Prix,12,Felipe Nasr,NAS,Sauber,15,+1 Lap,0.0
+2016,19,Mexican Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,16,+1 Lap,0.0
+2016,19,Mexican Grand Prix,20,Kevin Magnussen,MAG,Renault,17,+1 Lap,0.0
+2016,19,Mexican Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,18,+1 Lap,0.0
+2016,19,Mexican Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,19,+1 Lap,0.0
+2016,19,Mexican Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,20,+1 Lap,0.0
+2016,19,Mexican Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,21,+2 Laps,0.0
+2016,19,Mexican Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,R,Collision,0.0
+2016,20,Brazilian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,20,Brazilian Grand Prix,6,Nico Rosberg,ROS,Mercedes,2,Finished,18.0
+2016,20,Brazilian Grand Prix,33,Max Verstappen,VER,Red Bull,3,Finished,15.0
+2016,20,Brazilian Grand Prix,11,Sergio Pérez,PER,Force India,4,Finished,12.0
+2016,20,Brazilian Grand Prix,5,Sebastian Vettel,VET,Ferrari,5,Finished,10.0
+2016,20,Brazilian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,6,Finished,8.0
+2016,20,Brazilian Grand Prix,27,Nico Hülkenberg,HUL,Force India,7,Finished,6.0
+2016,20,Brazilian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,8,Finished,4.0
+2016,20,Brazilian Grand Prix,12,Felipe Nasr,NAS,Sauber,9,Finished,2.0
+2016,20,Brazilian Grand Prix,14,Fernando Alonso,ALO,McLaren,10,Finished,1.0
+2016,20,Brazilian Grand Prix,77,Valtteri Bottas,BOT,Williams,11,Finished,0.0
+2016,20,Brazilian Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,12,Finished,0.0
+2016,20,Brazilian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,13,Finished,0.0
+2016,20,Brazilian Grand Prix,20,Kevin Magnussen,MAG,Renault,14,Finished,0.0
+2016,20,Brazilian Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,15,Finished,0.0
+2016,20,Brazilian Grand Prix,22,Jenson Button,BUT,McLaren,16,Finished,0.0
+2016,20,Brazilian Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,R,Retired,0.0
+2016,20,Brazilian Grand Prix,19,Felipe Massa,MAS,Williams,R,Collision,0.0
+2016,20,Brazilian Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Collision damage,0.0
+2016,20,Brazilian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Collision,0.0
+2016,20,Brazilian Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Collision,0.0
+2016,20,Brazilian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,W,Withdrew,0.0
+2016,21,Abu Dhabi Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2016,21,Abu Dhabi Grand Prix,6,Nico Rosberg,ROS,Mercedes,2,Finished,18.0
+2016,21,Abu Dhabi Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2016,21,Abu Dhabi Grand Prix,33,Max Verstappen,VER,Red Bull,4,Finished,12.0
+2016,21,Abu Dhabi Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,5,Finished,10.0
+2016,21,Abu Dhabi Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,6,Finished,8.0
+2016,21,Abu Dhabi Grand Prix,27,Nico Hülkenberg,HUL,Force India,7,Finished,6.0
+2016,21,Abu Dhabi Grand Prix,11,Sergio Pérez,PER,Force India,8,Finished,4.0
+2016,21,Abu Dhabi Grand Prix,19,Felipe Massa,MAS,Williams,9,Finished,2.0
+2016,21,Abu Dhabi Grand Prix,14,Fernando Alonso,ALO,McLaren,10,Finished,1.0
+2016,21,Abu Dhabi Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,Finished,0.0
+2016,21,Abu Dhabi Grand Prix,21,Esteban Gutiérrez,GUT,Haas F1 Team,12,Finished,0.0
+2016,21,Abu Dhabi Grand Prix,31,Esteban Ocon,OCO,Manor Marussia,13,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,94,Pascal Wehrlein,WEH,Manor Marussia,14,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,12,Felipe Nasr,NAS,Sauber,16,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,30,Jolyon Palmer,PAL,Renault,17,+1 Lap,0.0
+2016,21,Abu Dhabi Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Collision damage,0.0
+2016,21,Abu Dhabi Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Gearbox,0.0
+2016,21,Abu Dhabi Grand Prix,22,Jenson Button,BUT,McLaren,R,Suspension,0.0
+2016,21,Abu Dhabi Grand Prix,77,Valtteri Bottas,BOT,Williams,R,Suspension,0.0
+2016,21,Abu Dhabi Grand Prix,20,Kevin Magnussen,MAG,Renault,R,Suspension,0.0

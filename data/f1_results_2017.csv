@@ -1,0 +1,401 @@
+season,round,race_name,driver_number,driver_name,abbreviation,team,final_position,status,points_scored
+2017,1,Australian Grand Prix,5,Sebastian Vettel,VET,Ferrari,1,Finished,25.0
+2017,1,Australian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2017,1,Australian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2017,1,Australian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2017,1,Australian Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2017,1,Australian Grand Prix,19,Felipe Massa,MAS,Williams,6,Finished,8.0
+2017,1,Australian Grand Prix,11,Sergio Pérez,PER,Force India,7,+1 Lap,6.0
+2017,1,Australian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,8,+1 Lap,4.0
+2017,1,Australian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,9,+1 Lap,2.0
+2017,1,Australian Grand Prix,31,Esteban Ocon,OCO,Force India,10,+1 Lap,1.0
+2017,1,Australian Grand Prix,27,Nico Hülkenberg,HUL,Renault,11,+1 Lap,0.0
+2017,1,Australian Grand Prix,36,Antonio Giovinazzi,GIO,Sauber,12,+2 Laps,0.0
+2017,1,Australian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,13,+2 Laps,0.0
+2017,1,Australian Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Vibrations,0.0
+2017,1,Australian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Suspension,0.0
+2017,1,Australian Grand Prix,18,Lance Stroll,STR,Williams,R,Brakes,0.0
+2017,1,Australian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,R,Power Unit,0.0
+2017,1,Australian Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Hydraulics,0.0
+2017,1,Australian Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Brakes,0.0
+2017,1,Australian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Water leak,0.0
+2017,2,Chinese Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,2,Chinese Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2017,2,Chinese Grand Prix,33,Max Verstappen,VER,Red Bull,3,Finished,15.0
+2017,2,Chinese Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2017,2,Chinese Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2017,2,Chinese Grand Prix,77,Valtteri Bottas,BOT,Mercedes,6,Finished,8.0
+2017,2,Chinese Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,7,Finished,6.0
+2017,2,Chinese Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,8,+1 Lap,4.0
+2017,2,Chinese Grand Prix,11,Sergio Pérez,PER,Force India,9,+1 Lap,2.0
+2017,2,Chinese Grand Prix,31,Esteban Ocon,OCO,Force India,10,+1 Lap,1.0
+2017,2,Chinese Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,+1 Lap,0.0
+2017,2,Chinese Grand Prix,27,Nico Hülkenberg,HUL,Renault,12,+1 Lap,0.0
+2017,2,Chinese Grand Prix,30,Jolyon Palmer,PAL,Renault,13,+1 Lap,0.0
+2017,2,Chinese Grand Prix,19,Felipe Massa,MAS,Williams,14,+1 Lap,0.0
+2017,2,Chinese Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+1 Lap,0.0
+2017,2,Chinese Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Driveshaft,0.0
+2017,2,Chinese Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Hydraulics,0.0
+2017,2,Chinese Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,R,Fuel pressure,0.0
+2017,2,Chinese Grand Prix,36,Antonio Giovinazzi,GIO,Sauber,R,Accident,0.0
+2017,2,Chinese Grand Prix,18,Lance Stroll,STR,Williams,R,Collision,0.0
+2017,3,Bahrain Grand Prix,5,Sebastian Vettel,VET,Ferrari,1,Finished,25.0
+2017,3,Bahrain Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2017,3,Bahrain Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2017,3,Bahrain Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2017,3,Bahrain Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,5,Finished,10.0
+2017,3,Bahrain Grand Prix,19,Felipe Massa,MAS,Williams,6,Finished,8.0
+2017,3,Bahrain Grand Prix,11,Sergio Pérez,PER,Force India,7,Finished,6.0
+2017,3,Bahrain Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,8,Finished,4.0
+2017,3,Bahrain Grand Prix,27,Nico Hülkenberg,HUL,Renault,9,Finished,2.0
+2017,3,Bahrain Grand Prix,31,Esteban Ocon,OCO,Force India,10,Finished,1.0
+2017,3,Bahrain Grand Prix,94,Pascal Wehrlein,WEH,Sauber,11,+1 Lap,0.0
+2017,3,Bahrain Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,+1 Lap,0.0
+2017,3,Bahrain Grand Prix,30,Jolyon Palmer,PAL,Renault,13,+1 Lap,0.0
+2017,3,Bahrain Grand Prix,14,Fernando Alonso,ALO,McLaren,14,Power Unit,0.0
+2017,3,Bahrain Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Gearbox,0.0
+2017,3,Bahrain Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Collision,0.0
+2017,3,Bahrain Grand Prix,18,Lance Stroll,STR,Williams,R,Collision,0.0
+2017,3,Bahrain Grand Prix,33,Max Verstappen,VER,Red Bull,R,Brakes,0.0
+2017,3,Bahrain Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Electrical,0.0
+2017,3,Bahrain Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,R,Power Unit,0.0
+2017,4,Russian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,25.0
+2017,4,Russian Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2017,4,Russian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2017,4,Russian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,4,Finished,12.0
+2017,4,Russian Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2017,4,Russian Grand Prix,11,Sergio Pérez,PER,Force India,6,Finished,8.0
+2017,4,Russian Grand Prix,31,Esteban Ocon,OCO,Force India,7,Finished,6.0
+2017,4,Russian Grand Prix,27,Nico Hülkenberg,HUL,Renault,8,Finished,4.0
+2017,4,Russian Grand Prix,19,Felipe Massa,MAS,Williams,9,+1 Lap,2.0
+2017,4,Russian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,10,+1 Lap,1.0
+2017,4,Russian Grand Prix,18,Lance Stroll,STR,Williams,11,+1 Lap,0.0
+2017,4,Russian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,+1 Lap,0.0
+2017,4,Russian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2017,4,Russian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,14,+1 Lap,0.0
+2017,4,Russian Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+1 Lap,0.0
+2017,4,Russian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,16,+2 Laps,0.0
+2017,4,Russian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,R,Brakes,0.0
+2017,4,Russian Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Collision,0.0
+2017,4,Russian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Collision,0.0
+2017,4,Russian Grand Prix,14,Fernando Alonso,ALO,McLaren,W,Power Unit,0.0
+2017,5,Spanish Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,5,Spanish Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2017,5,Spanish Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,5,Spanish Grand Prix,11,Sergio Pérez,PER,Force India,4,+1 Lap,12.0
+2017,5,Spanish Grand Prix,31,Esteban Ocon,OCO,Force India,5,+1 Lap,10.0
+2017,5,Spanish Grand Prix,27,Nico Hülkenberg,HUL,Renault,6,+1 Lap,8.0
+2017,5,Spanish Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,7,+1 Lap,6.0
+2017,5,Spanish Grand Prix,94,Pascal Wehrlein,WEH,Sauber,8,+1 Lap,4.0
+2017,5,Spanish Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,9,+1 Lap,2.0
+2017,5,Spanish Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,10,+1 Lap,1.0
+2017,5,Spanish Grand Prix,9,Marcus Ericsson,ERI,Sauber,11,+2 Laps,0.0
+2017,5,Spanish Grand Prix,14,Fernando Alonso,ALO,McLaren,12,+2 Laps,0.0
+2017,5,Spanish Grand Prix,19,Felipe Massa,MAS,Williams,13,+2 Laps,0.0
+2017,5,Spanish Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,14,+2 Laps,0.0
+2017,5,Spanish Grand Prix,30,Jolyon Palmer,PAL,Renault,15,+2 Laps,0.0
+2017,5,Spanish Grand Prix,18,Lance Stroll,STR,Williams,16,+2 Laps,0.0
+2017,5,Spanish Grand Prix,77,Valtteri Bottas,BOT,Mercedes,R,Power Unit,0.0
+2017,5,Spanish Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,R,Collision,0.0
+2017,5,Spanish Grand Prix,33,Max Verstappen,VER,Red Bull,R,Collision damage,0.0
+2017,5,Spanish Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Collision damage,0.0
+2017,6,Monaco Grand Prix,5,Sebastian Vettel,VET,Ferrari,1,Finished,25.0
+2017,6,Monaco Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,2,Finished,18.0
+2017,6,Monaco Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,6,Monaco Grand Prix,77,Valtteri Bottas,BOT,Mercedes,4,Finished,12.0
+2017,6,Monaco Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2017,6,Monaco Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,6,Finished,8.0
+2017,6,Monaco Grand Prix,44,Lewis Hamilton,HAM,Mercedes,7,Finished,6.0
+2017,6,Monaco Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,8,Finished,4.0
+2017,6,Monaco Grand Prix,19,Felipe Massa,MAS,Williams,9,Finished,2.0
+2017,6,Monaco Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,10,Finished,1.0
+2017,6,Monaco Grand Prix,30,Jolyon Palmer,PAL,Renault,11,Finished,0.0
+2017,6,Monaco Grand Prix,31,Esteban Ocon,OCO,Force India,12,Finished,0.0
+2017,6,Monaco Grand Prix,11,Sergio Pérez,PER,Force India,13,Finished,0.0
+2017,6,Monaco Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,14,Collision damage,0.0
+2017,6,Monaco Grand Prix,18,Lance Stroll,STR,Williams,15,Brakes,0.0
+2017,6,Monaco Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,R,Accident,0.0
+2017,6,Monaco Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Accident,0.0
+2017,6,Monaco Grand Prix,22,Jenson Button,BUT,McLaren,R,Collision damage,0.0
+2017,6,Monaco Grand Prix,94,Pascal Wehrlein,WEH,Sauber,R,Collision,0.0
+2017,6,Monaco Grand Prix,27,Nico Hülkenberg,HUL,Renault,R,Gearbox,0.0
+2017,7,Canadian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,7,Canadian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2017,7,Canadian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,7,Canadian Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2017,7,Canadian Grand Prix,11,Sergio Pérez,PER,Force India,5,Finished,10.0
+2017,7,Canadian Grand Prix,31,Esteban Ocon,OCO,Force India,6,Finished,8.0
+2017,7,Canadian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,7,Finished,6.0
+2017,7,Canadian Grand Prix,27,Nico Hülkenberg,HUL,Renault,8,Finished,4.0
+2017,7,Canadian Grand Prix,18,Lance Stroll,STR,Williams,9,+1 Lap,2.0
+2017,7,Canadian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,10,+1 Lap,1.0
+2017,7,Canadian Grand Prix,30,Jolyon Palmer,PAL,Renault,11,+1 Lap,0.0
+2017,7,Canadian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,12,+1 Lap,0.0
+2017,7,Canadian Grand Prix,9,Marcus Ericsson,ERI,Sauber,13,+1 Lap,0.0
+2017,7,Canadian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,14,+1 Lap,0.0
+2017,7,Canadian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,15,+2 Laps,0.0
+2017,7,Canadian Grand Prix,14,Fernando Alonso,ALO,McLaren,16,Power Unit,0.0
+2017,7,Canadian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Power Unit,0.0
+2017,7,Canadian Grand Prix,33,Max Verstappen,VER,Red Bull,R,Electrical,0.0
+2017,7,Canadian Grand Prix,19,Felipe Massa,MAS,Williams,R,Collision,0.0
+2017,7,Canadian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Collision,0.0
+2017,8,Azerbaijan Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,1,Finished,25.0
+2017,8,Azerbaijan Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2017,8,Azerbaijan Grand Prix,18,Lance Stroll,STR,Williams,3,Finished,15.0
+2017,8,Azerbaijan Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2017,8,Azerbaijan Grand Prix,44,Lewis Hamilton,HAM,Mercedes,5,Finished,10.0
+2017,8,Azerbaijan Grand Prix,31,Esteban Ocon,OCO,Force India,6,Finished,8.0
+2017,8,Azerbaijan Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,7,Finished,6.0
+2017,8,Azerbaijan Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,8,Finished,4.0
+2017,8,Azerbaijan Grand Prix,14,Fernando Alonso,ALO,McLaren,9,Finished,2.0
+2017,8,Azerbaijan Grand Prix,94,Pascal Wehrlein,WEH,Sauber,10,Finished,1.0
+2017,8,Azerbaijan Grand Prix,9,Marcus Ericsson,ERI,Sauber,11,Finished,0.0
+2017,8,Azerbaijan Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,12,Finished,0.0
+2017,8,Azerbaijan Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2017,8,Azerbaijan Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,14,Water pressure,0.0
+2017,8,Azerbaijan Grand Prix,11,Sergio Pérez,PER,Force India,R,Seat,0.0
+2017,8,Azerbaijan Grand Prix,19,Felipe Massa,MAS,Williams,R,Suspension,0.0
+2017,8,Azerbaijan Grand Prix,27,Nico Hülkenberg,HUL,Renault,R,Accident,0.0
+2017,8,Azerbaijan Grand Prix,33,Max Verstappen,VER,Red Bull,R,Oil pressure,0.0
+2017,8,Azerbaijan Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Battery,0.0
+2017,8,Azerbaijan Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Power Unit,0.0
+2017,9,Austrian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,25.0
+2017,9,Austrian Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2017,9,Austrian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,9,Austrian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,4,Finished,12.0
+2017,9,Austrian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2017,9,Austrian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,6,Finished,8.0
+2017,9,Austrian Grand Prix,11,Sergio Pérez,PER,Force India,7,+1 Lap,6.0
+2017,9,Austrian Grand Prix,31,Esteban Ocon,OCO,Force India,8,+1 Lap,4.0
+2017,9,Austrian Grand Prix,19,Felipe Massa,MAS,Williams,9,+1 Lap,2.0
+2017,9,Austrian Grand Prix,18,Lance Stroll,STR,Williams,10,+1 Lap,1.0
+2017,9,Austrian Grand Prix,30,Jolyon Palmer,PAL,Renault,11,+1 Lap,0.0
+2017,9,Austrian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,12,+1 Lap,0.0
+2017,9,Austrian Grand Prix,27,Nico Hülkenberg,HUL,Renault,13,+1 Lap,0.0
+2017,9,Austrian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,14,+1 Lap,0.0
+2017,9,Austrian Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+2 Laps,0.0
+2017,9,Austrian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,16,+3 Laps,0.0
+2017,9,Austrian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Engine,0.0
+2017,9,Austrian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Hydraulics,0.0
+2017,9,Austrian Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Collision damage,0.0
+2017,9,Austrian Grand Prix,33,Max Verstappen,VER,Red Bull,R,Collision damage,0.0
+2017,10,British Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,10,British Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2017,10,British Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2017,10,British Grand Prix,33,Max Verstappen,VER,Red Bull,4,Finished,12.0
+2017,10,British Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,5,Finished,10.0
+2017,10,British Grand Prix,27,Nico Hülkenberg,HUL,Renault,6,Finished,8.0
+2017,10,British Grand Prix,5,Sebastian Vettel,VET,Ferrari,7,Finished,6.0
+2017,10,British Grand Prix,31,Esteban Ocon,OCO,Force India,8,+1 Lap,4.0
+2017,10,British Grand Prix,11,Sergio Pérez,PER,Force India,9,+1 Lap,2.0
+2017,10,British Grand Prix,19,Felipe Massa,MAS,Williams,10,+1 Lap,1.0
+2017,10,British Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,11,+1 Lap,0.0
+2017,10,British Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,12,+1 Lap,0.0
+2017,10,British Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2017,10,British Grand Prix,9,Marcus Ericsson,ERI,Sauber,14,+1 Lap,0.0
+2017,10,British Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,15,+1 Lap,0.0
+2017,10,British Grand Prix,18,Lance Stroll,STR,Williams,16,+1 Lap,0.0
+2017,10,British Grand Prix,94,Pascal Wehrlein,WEH,Sauber,17,+1 Lap,0.0
+2017,10,British Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Power Unit,0.0
+2017,10,British Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Collision damage,0.0
+2017,10,British Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Hydraulics,0.0
+2017,11,Hungarian Grand Prix,5,Sebastian Vettel,VET,Ferrari,1,Finished,25.0
+2017,11,Hungarian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,2,Finished,18.0
+2017,11,Hungarian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2017,11,Hungarian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,4,Finished,12.0
+2017,11,Hungarian Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2017,11,Hungarian Grand Prix,14,Fernando Alonso,ALO,McLaren,6,Finished,8.0
+2017,11,Hungarian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,7,+1 Lap,6.0
+2017,11,Hungarian Grand Prix,11,Sergio Pérez,PER,Force India,8,+1 Lap,4.0
+2017,11,Hungarian Grand Prix,31,Esteban Ocon,OCO,Force India,9,+1 Lap,2.0
+2017,11,Hungarian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,10,+1 Lap,1.0
+2017,11,Hungarian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,11,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,30,Jolyon Palmer,PAL,Renault,12,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,18,Lance Stroll,STR,Williams,14,+1 Lap,0.0
+2017,11,Hungarian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,15,+2 Laps,0.0
+2017,11,Hungarian Grand Prix,9,Marcus Ericsson,ERI,Sauber,16,+2 Laps,0.0
+2017,11,Hungarian Grand Prix,27,Nico Hülkenberg,HUL,Renault,17,Brakes,0.0
+2017,11,Hungarian Grand Prix,40,Paul di Resta,DIR,Williams,R,Oil leak,0.0
+2017,11,Hungarian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,R,Wheel nut,0.0
+2017,11,Hungarian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,R,Collision,0.0
+2017,12,Belgian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,12,Belgian Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2017,12,Belgian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,12,Belgian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2017,12,Belgian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,5,Finished,10.0
+2017,12,Belgian Grand Prix,27,Nico Hülkenberg,HUL,Renault,6,Finished,8.0
+2017,12,Belgian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,7,Finished,6.0
+2017,12,Belgian Grand Prix,19,Felipe Massa,MAS,Williams,8,Finished,4.0
+2017,12,Belgian Grand Prix,31,Esteban Ocon,OCO,Force India,9,Finished,2.0
+2017,12,Belgian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,10,Finished,1.0
+2017,12,Belgian Grand Prix,18,Lance Stroll,STR,Williams,11,Finished,0.0
+2017,12,Belgian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,Finished,0.0
+2017,12,Belgian Grand Prix,30,Jolyon Palmer,PAL,Renault,13,Finished,0.0
+2017,12,Belgian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,14,Finished,0.0
+2017,12,Belgian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,15,Finished,0.0
+2017,12,Belgian Grand Prix,9,Marcus Ericsson,ERI,Sauber,16,Finished,0.0
+2017,12,Belgian Grand Prix,11,Sergio Pérez,PER,Force India,17,Gearbox,0.0
+2017,12,Belgian Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Engine,0.0
+2017,12,Belgian Grand Prix,33,Max Verstappen,VER,Red Bull,R,Engine,0.0
+2017,12,Belgian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,R,Collision,0.0
+2017,13,Italian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,13,Italian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2017,13,Italian Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2017,13,Italian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,4,Finished,12.0
+2017,13,Italian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2017,13,Italian Grand Prix,31,Esteban Ocon,OCO,Force India,6,Finished,8.0
+2017,13,Italian Grand Prix,18,Lance Stroll,STR,Williams,7,Finished,6.0
+2017,13,Italian Grand Prix,19,Felipe Massa,MAS,Williams,8,Finished,4.0
+2017,13,Italian Grand Prix,11,Sergio Pérez,PER,Force India,9,Finished,2.0
+2017,13,Italian Grand Prix,33,Max Verstappen,VER,Red Bull,10,+1 Lap,1.0
+2017,13,Italian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,11,+1 Lap,0.0
+2017,13,Italian Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,12,+1 Lap,0.0
+2017,13,Italian Grand Prix,27,Nico Hülkenberg,HUL,Renault,13,+1 Lap,0.0
+2017,13,Italian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,14,+1 Lap,0.0
+2017,13,Italian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,15,+1 Lap,0.0
+2017,13,Italian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,16,+2 Laps,0.0
+2017,13,Italian Grand Prix,14,Fernando Alonso,ALO,McLaren,17,Gearbox,0.0
+2017,13,Italian Grand Prix,9,Marcus Ericsson,ERI,Sauber,18,Gearbox,0.0
+2017,13,Italian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,R,Engine,0.0
+2017,13,Italian Grand Prix,30,Jolyon Palmer,PAL,Renault,R,Engine,0.0
+2017,14,Singapore Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,14,Singapore Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,2,Finished,18.0
+2017,14,Singapore Grand Prix,77,Valtteri Bottas,BOT,Mercedes,3,Finished,15.0
+2017,14,Singapore Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,4,Finished,12.0
+2017,14,Singapore Grand Prix,11,Sergio Pérez,PER,Force India,5,Finished,10.0
+2017,14,Singapore Grand Prix,30,Jolyon Palmer,PAL,Renault,6,Finished,8.0
+2017,14,Singapore Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,7,Finished,6.0
+2017,14,Singapore Grand Prix,18,Lance Stroll,STR,Williams,8,Finished,4.0
+2017,14,Singapore Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,9,Finished,2.0
+2017,14,Singapore Grand Prix,31,Esteban Ocon,OCO,Force India,10,Finished,1.0
+2017,14,Singapore Grand Prix,19,Felipe Massa,MAS,Williams,11,Finished,0.0
+2017,14,Singapore Grand Prix,94,Pascal Wehrlein,WEH,Sauber,12,+2 Laps,0.0
+2017,14,Singapore Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Engine,0.0
+2017,14,Singapore Grand Prix,27,Nico Hülkenberg,HUL,Renault,R,Engine,0.0
+2017,14,Singapore Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Accident,0.0
+2017,14,Singapore Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,R,Accident,0.0
+2017,14,Singapore Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Collision damage,0.0
+2017,14,Singapore Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Accident,0.0
+2017,14,Singapore Grand Prix,33,Max Verstappen,VER,Red Bull,R,Accident,0.0
+2017,14,Singapore Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Accident,0.0
+2017,15,Malaysian Grand Prix,33,Max Verstappen,VER,Red Bull,1,Finished,25.0
+2017,15,Malaysian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2017,15,Malaysian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,15,Malaysian Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2017,15,Malaysian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,5,Finished,10.0
+2017,15,Malaysian Grand Prix,11,Sergio Pérez,PER,Force India,6,Finished,8.0
+2017,15,Malaysian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,7,+1 Lap,6.0
+2017,15,Malaysian Grand Prix,18,Lance Stroll,STR,Williams,8,+1 Lap,4.0
+2017,15,Malaysian Grand Prix,19,Felipe Massa,MAS,Williams,9,+1 Lap,2.0
+2017,15,Malaysian Grand Prix,31,Esteban Ocon,OCO,Force India,10,+1 Lap,1.0
+2017,15,Malaysian Grand Prix,14,Fernando Alonso,ALO,McLaren,11,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,12,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,13,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,14,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,30,Jolyon Palmer,PAL,Renault,15,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,27,Nico Hülkenberg,HUL,Renault,16,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,17,+1 Lap,0.0
+2017,15,Malaysian Grand Prix,9,Marcus Ericsson,ERI,Sauber,18,+2 Laps,0.0
+2017,15,Malaysian Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Engine,0.0
+2017,15,Malaysian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,R,Battery,0.0
+2017,16,Japanese Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,16,Japanese Grand Prix,33,Max Verstappen,VER,Red Bull,2,Finished,18.0
+2017,16,Japanese Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,3,Finished,15.0
+2017,16,Japanese Grand Prix,77,Valtteri Bottas,BOT,Mercedes,4,Finished,12.0
+2017,16,Japanese Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,5,Finished,10.0
+2017,16,Japanese Grand Prix,31,Esteban Ocon,OCO,Force India,6,Finished,8.0
+2017,16,Japanese Grand Prix,11,Sergio Pérez,PER,Force India,7,Finished,6.0
+2017,16,Japanese Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,8,Finished,4.0
+2017,16,Japanese Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,9,Finished,2.0
+2017,16,Japanese Grand Prix,19,Felipe Massa,MAS,Williams,10,+1 Lap,1.0
+2017,16,Japanese Grand Prix,14,Fernando Alonso,ALO,McLaren,11,+1 Lap,0.0
+2017,16,Japanese Grand Prix,30,Jolyon Palmer,PAL,Renault,12,+1 Lap,0.0
+2017,16,Japanese Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,13,+1 Lap,0.0
+2017,16,Japanese Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,14,+1 Lap,0.0
+2017,16,Japanese Grand Prix,94,Pascal Wehrlein,WEH,Sauber,15,+2 Laps,0.0
+2017,16,Japanese Grand Prix,18,Lance Stroll,STR,Williams,R,Wheel,0.0
+2017,16,Japanese Grand Prix,27,Nico Hülkenberg,HUL,Renault,R,Front wing,0.0
+2017,16,Japanese Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Accident,0.0
+2017,16,Japanese Grand Prix,5,Sebastian Vettel,VET,Ferrari,R,Spark plugs,0.0
+2017,16,Japanese Grand Prix,55,Carlos Sainz,SAI,Toro Rosso,R,Accident,0.0
+2017,17,United States Grand Prix,44,Lewis Hamilton,HAM,Mercedes,1,Finished,25.0
+2017,17,United States Grand Prix,5,Sebastian Vettel,VET,Ferrari,2,Finished,18.0
+2017,17,United States Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2017,17,United States Grand Prix,33,Max Verstappen,VER,Red Bull,4,Finished,12.0
+2017,17,United States Grand Prix,77,Valtteri Bottas,BOT,Mercedes,5,Finished,10.0
+2017,17,United States Grand Prix,31,Esteban Ocon,OCO,Force India,6,Finished,8.0
+2017,17,United States Grand Prix,55,Carlos Sainz,SAI,Renault,7,Finished,6.0
+2017,17,United States Grand Prix,11,Sergio Pérez,PER,Force India,8,+1 Lap,4.0
+2017,17,United States Grand Prix,19,Felipe Massa,MAS,Williams,9,+1 Lap,2.0
+2017,17,United States Grand Prix,26,Daniil Kvyat,KVY,Toro Rosso,10,+1 Lap,1.0
+2017,17,United States Grand Prix,18,Lance Stroll,STR,Williams,11,+1 Lap,0.0
+2017,17,United States Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,12,+1 Lap,0.0
+2017,17,United States Grand Prix,39,Brendon Hartley,HAR,Toro Rosso,13,+1 Lap,0.0
+2017,17,United States Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,14,+1 Lap,0.0
+2017,17,United States Grand Prix,9,Marcus Ericsson,ERI,Sauber,15,+1 Lap,0.0
+2017,17,United States Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,16,+1 Lap,0.0
+2017,17,United States Grand Prix,14,Fernando Alonso,ALO,McLaren,R,Engine,0.0
+2017,17,United States Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,R,Engine,0.0
+2017,17,United States Grand Prix,94,Pascal Wehrlein,WEH,Sauber,R,Collision,0.0
+2017,17,United States Grand Prix,27,Nico Hülkenberg,HUL,Renault,R,Engine,0.0
+2017,18,Mexican Grand Prix,33,Max Verstappen,VER,Red Bull,1,Finished,25.0
+2017,18,Mexican Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2017,18,Mexican Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2017,18,Mexican Grand Prix,5,Sebastian Vettel,VET,Ferrari,4,Finished,12.0
+2017,18,Mexican Grand Prix,31,Esteban Ocon,OCO,Force India,5,+1 Lap,10.0
+2017,18,Mexican Grand Prix,18,Lance Stroll,STR,Williams,6,+1 Lap,8.0
+2017,18,Mexican Grand Prix,11,Sergio Pérez,PER,Force India,7,+1 Lap,6.0
+2017,18,Mexican Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,8,+1 Lap,4.0
+2017,18,Mexican Grand Prix,44,Lewis Hamilton,HAM,Mercedes,9,+1 Lap,2.0
+2017,18,Mexican Grand Prix,14,Fernando Alonso,ALO,McLaren,10,+1 Lap,1.0
+2017,18,Mexican Grand Prix,19,Felipe Massa,MAS,Williams,11,+1 Lap,0.0
+2017,18,Mexican Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,12,+1 Lap,0.0
+2017,18,Mexican Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,13,+1 Lap,0.0
+2017,18,Mexican Grand Prix,94,Pascal Wehrlein,WEH,Sauber,14,+2 Laps,0.0
+2017,18,Mexican Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,15,+2 Laps,0.0
+2017,18,Mexican Grand Prix,55,Carlos Sainz,SAI,Renault,R,Engine,0.0
+2017,18,Mexican Grand Prix,9,Marcus Ericsson,ERI,Sauber,R,Engine,0.0
+2017,18,Mexican Grand Prix,28,Brendon Hartley,HAR,Toro Rosso,R,Engine,0.0
+2017,18,Mexican Grand Prix,27,Nico Hülkenberg,HUL,Renault,R,Electrical,0.0
+2017,18,Mexican Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,R,Engine,0.0
+2017,19,Brazilian Grand Prix,5,Sebastian Vettel,VET,Ferrari,1,Finished,25.0
+2017,19,Brazilian Grand Prix,77,Valtteri Bottas,BOT,Mercedes,2,Finished,18.0
+2017,19,Brazilian Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,3,Finished,15.0
+2017,19,Brazilian Grand Prix,44,Lewis Hamilton,HAM,Mercedes,4,Finished,12.0
+2017,19,Brazilian Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2017,19,Brazilian Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,6,Finished,8.0
+2017,19,Brazilian Grand Prix,19,Felipe Massa,MAS,Williams,7,Finished,6.0
+2017,19,Brazilian Grand Prix,14,Fernando Alonso,ALO,McLaren,8,Finished,4.0
+2017,19,Brazilian Grand Prix,11,Sergio Pérez,PER,Force India,9,Finished,2.0
+2017,19,Brazilian Grand Prix,27,Nico Hülkenberg,HUL,Renault,10,+1 Lap,1.0
+2017,19,Brazilian Grand Prix,55,Carlos Sainz,SAI,Renault,11,+1 Lap,0.0
+2017,19,Brazilian Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,12,+1 Lap,0.0
+2017,19,Brazilian Grand Prix,9,Marcus Ericsson,ERI,Sauber,13,+1 Lap,0.0
+2017,19,Brazilian Grand Prix,94,Pascal Wehrlein,WEH,Sauber,14,+1 Lap,0.0
+2017,19,Brazilian Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,15,+2 Laps,0.0
+2017,19,Brazilian Grand Prix,18,Lance Stroll,STR,Williams,16,+2 Laps,0.0
+2017,19,Brazilian Grand Prix,28,Brendon Hartley,HAR,Toro Rosso,R,Engine,0.0
+2017,19,Brazilian Grand Prix,31,Esteban Ocon,OCO,Force India,R,Accident,0.0
+2017,19,Brazilian Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,R,Accident,0.0
+2017,19,Brazilian Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,R,Accident,0.0
+2017,20,Abu Dhabi Grand Prix,77,Valtteri Bottas,BOT,Mercedes,1,Finished,25.0
+2017,20,Abu Dhabi Grand Prix,44,Lewis Hamilton,HAM,Mercedes,2,Finished,18.0
+2017,20,Abu Dhabi Grand Prix,5,Sebastian Vettel,VET,Ferrari,3,Finished,15.0
+2017,20,Abu Dhabi Grand Prix,7,Kimi Räikkönen,RAI,Ferrari,4,Finished,12.0
+2017,20,Abu Dhabi Grand Prix,33,Max Verstappen,VER,Red Bull,5,Finished,10.0
+2017,20,Abu Dhabi Grand Prix,27,Nico Hülkenberg,HUL,Renault,6,Finished,8.0
+2017,20,Abu Dhabi Grand Prix,11,Sergio Pérez,PER,Force India,7,Finished,6.0
+2017,20,Abu Dhabi Grand Prix,31,Esteban Ocon,OCO,Force India,8,Finished,4.0
+2017,20,Abu Dhabi Grand Prix,14,Fernando Alonso,ALO,McLaren,9,+1 Lap,2.0
+2017,20,Abu Dhabi Grand Prix,19,Felipe Massa,MAS,Williams,10,+1 Lap,1.0
+2017,20,Abu Dhabi Grand Prix,8,Romain Grosjean,GRO,Haas F1 Team,11,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,2,Stoffel Vandoorne,VAN,McLaren,12,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,20,Kevin Magnussen,MAG,Haas F1 Team,13,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,94,Pascal Wehrlein,WEH,Sauber,14,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,28,Brendon Hartley,HAR,Toro Rosso,15,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,10,Pierre Gasly,GAS,Toro Rosso,16,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,9,Marcus Ericsson,ERI,Sauber,17,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,18,Lance Stroll,STR,Williams,18,+1 Lap,0.0
+2017,20,Abu Dhabi Grand Prix,55,Carlos Sainz,SAI,Renault,R,Wheel,0.0
+2017,20,Abu Dhabi Grand Prix,3,Daniel Ricciardo,RIC,Red Bull,R,Hydraulics,0.0
